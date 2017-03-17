@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Vzq-Gk-mGQ" customClass="PlaySheetHeader" customModule="audioDidFinish" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="79"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oEH-6U-brO">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="79"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="UiC-DE-l6L">
+                            <rect key="frame" x="10" y="16" width="44" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="0xe-NF-yeF"/>
+                                <constraint firstAttribute="width" constant="44" id="DI9-SQ-eWm"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PJ4-i8-iYj">
+                            <rect key="frame" x="68" y="18" width="288" height="21"/>
+                            <attributedString key="attributedText">
+                                <fragment content="Label">
+                                    <attributes>
+                                        <color key="NSColor" red="0.37254901960784315" green="0.37254901960784315" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <font key="NSFont" size="20" name="HiraginoSans-W6"/>
+                                        <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                    </attributes>
+                                </fragment>
+                            </attributedString>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="psO-Nr-LFd">
+                            <rect key="frame" x="68" y="46" width="267" height="18"/>
+                            <fontDescription key="fontDescription" name="HiraginoSans-W3" family="Hiragino Sans" pointSize="15"/>
+                            <color key="textColor" red="0.37254901960784315" green="0.37254901960784315" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="speaker2" translatesAutoresizingMaskIntoConstraints="NO" id="nKS-74-gkq">
+                            <rect key="frame" x="336" y="50" width="16" height="16"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="16" id="fA6-3s-gOn"/>
+                                <constraint firstAttribute="height" constant="16" id="hJ2-DO-CB9"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="UiC-DE-l6L" firstAttribute="leading" secondItem="oEH-6U-brO" secondAttribute="leading" constant="10" id="8on-9A-nkK"/>
+                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="leading" secondItem="UiC-DE-l6L" secondAttribute="trailing" constant="14" id="Ma5-aD-Gr0"/>
+                        <constraint firstAttribute="bottom" secondItem="nKS-74-gkq" secondAttribute="bottom" constant="13" id="Nps-b6-rUk"/>
+                        <constraint firstItem="psO-Nr-LFd" firstAttribute="leading" secondItem="PJ4-i8-iYj" secondAttribute="leading" id="UJl-u6-0Oy"/>
+                        <constraint firstAttribute="trailing" secondItem="PJ4-i8-iYj" secondAttribute="trailing" constant="19" id="Yn5-HO-rpz"/>
+                        <constraint firstItem="psO-Nr-LFd" firstAttribute="top" secondItem="PJ4-i8-iYj" secondAttribute="bottom" constant="7" id="f4Y-YJ-bds"/>
+                        <constraint firstAttribute="bottom" secondItem="psO-Nr-LFd" secondAttribute="bottom" constant="15" id="ibf-XL-0A9"/>
+                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="top" secondItem="UiC-DE-l6L" secondAttribute="top" constant="2" id="jTd-q0-YRa"/>
+                        <constraint firstAttribute="trailing" secondItem="nKS-74-gkq" secondAttribute="trailing" constant="23" id="ogY-JD-lez"/>
+                        <constraint firstItem="UiC-DE-l6L" firstAttribute="top" secondItem="oEH-6U-brO" secondAttribute="top" constant="16" id="vnv-iB-a3N"/>
+                        <constraint firstItem="nKS-74-gkq" firstAttribute="leading" secondItem="psO-Nr-LFd" secondAttribute="trailing" constant="1" id="xdg-dC-JVe"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="oEH-6U-brO" firstAttribute="top" secondItem="Vzq-Gk-mGQ" secondAttribute="top" id="90p-Ka-ulF"/>
+                <constraint firstAttribute="trailing" secondItem="oEH-6U-brO" secondAttribute="trailing" id="Qmf-ES-OXa"/>
+                <constraint firstAttribute="bottom" secondItem="oEH-6U-brO" secondAttribute="bottom" id="uk1-wr-2KO"/>
+                <constraint firstItem="oEH-6U-brO" firstAttribute="leading" secondItem="Vzq-Gk-mGQ" secondAttribute="leading" id="v2D-wp-tjR"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="IMGTitle" destination="UiC-DE-l6L" id="jxl-ep-m2l"/>
+                <outlet property="IMGView" destination="nKS-74-gkq" id="ums-6Z-vNP"/>
+                <outlet property="LBLDetail" destination="psO-Nr-LFd" id="9gg-4F-5o5"/>
+                <outlet property="LBLTitle" destination="PJ4-i8-iYj" id="yIn-m8-3jM"/>
+                <outlet property="bubbleView" destination="oEH-6U-brO" id="PzG-Jw-eku"/>
+            </connections>
+            <point key="canvasLocation" x="23" y="-359"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="speaker2" width="24" height="21"/>
+    </resources>
+</document>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="33Y-hg-Alx" customClass="PlaySheetFooter" customModule="audioDidFinish" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6mw-7W-Wyc">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+                    <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="37p-4w-Mke">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BzA-Tq-uGL">
+                                <rect key="frame" x="16" y="16" width="343" height="26"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+                                <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="BzA-Tq-uGL" secondAttribute="bottom" constant="16" id="9ln-xI-WA6"/>
+                            <constraint firstAttribute="trailing" secondItem="BzA-Tq-uGL" secondAttribute="trailing" constant="16" id="KDu-2T-bJm"/>
+                            <constraint firstItem="BzA-Tq-uGL" firstAttribute="leading" secondItem="37p-4w-Mke" secondAttribute="leading" constant="16" id="gcd-BT-2hd"/>
+                            <constraint firstItem="BzA-Tq-uGL" firstAttribute="top" secondItem="37p-4w-Mke" secondAttribute="top" constant="16" id="rwS-ju-4bZ"/>
+                        </constraints>
+                    </view>
+                    <blurEffect style="light"/>
+                </visualEffectView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="6mw-7W-Wyc" secondAttribute="trailing" id="I1D-a1-G8G"/>
+                <constraint firstItem="6mw-7W-Wyc" firstAttribute="top" secondItem="33Y-hg-Alx" secondAttribute="top" id="IFl-il-GtE"/>
+                <constraint firstAttribute="bottom" secondItem="6mw-7W-Wyc" secondAttribute="bottom" id="MCh-Jx-bN8"/>
+                <constraint firstItem="6mw-7W-Wyc" firstAttribute="leading" secondItem="33Y-hg-Alx" secondAttribute="leading" id="yAL-0d-G2G"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="lblContent" destination="BzA-Tq-uGL" id="Dxa-bN-4H3"/>
+            </connections>
+            <point key="canvasLocation" x="206" y="-15"/>
+        </view>
+    </objects>
+</document>
