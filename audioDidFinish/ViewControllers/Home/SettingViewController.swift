@@ -91,7 +91,7 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
                 
                 mailCompose.setToRecipients(["balloonappfeedback@gmail.com"])
                 
-                mailCompose.setSubject("傳送意見回饋")
+                mailCompose.setSubject("要求新的用語 👶")
                 
                 mailCompose.setMessageBody("", isHTML: false)
                 
@@ -110,7 +110,7 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
                 
                 mailCompose.setToRecipients(["balloonappfeedback@gmail.com"])
                 
-                mailCompose.setSubject("要求新的用語 👶")
+                mailCompose.setSubject("傳送意見回饋")
                 
                 mailCompose.setMessageBody("", isHTML: false)
                 
