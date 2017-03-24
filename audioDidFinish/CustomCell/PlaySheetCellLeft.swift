@@ -46,11 +46,9 @@ class PlaySheetCellLeft: UITableViewCell {
             
             
             let paragraphStyle = NSMutableParagraphStyle()
-
             
             //line height size
             paragraphStyle.lineSpacing = 5
-            
             
             // For title
             let attrTitleString = NSMutableAttributedString(string: title)
@@ -87,7 +85,7 @@ class PlaySheetCellLeft: UITableViewCell {
 //        print("Left Cell Title Width: = \(width75)")
         self.widthConstraint.constant = width75
         self.LBLTitle.layoutIfNeeded()
-       // self.IMGView.animationImages = [#imageLiteral(resourceName: "speaker2")]
+        //self.IMGView.animationImages = [#imageLiteral(resourceName: "speaker2")]
         //self.IMGView.animationDuration = 0.25
         
 
@@ -97,7 +95,6 @@ class PlaySheetCellLeft: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
         
-
         // Configure the view for the selected state
     }
     
@@ -110,3 +107,4 @@ class PlaySheetCellLeft: UITableViewCell {
         return value
     }
 }
+
