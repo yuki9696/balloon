@@ -8,7 +8,7 @@
 		<key>title</key>
 		<string>和朋友常用的對話</string>
 		<key>image</key>
-		<string>icon1</string>
+		<string>lesson1</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -27,16 +27,16 @@
 					<key>image</key>
 					<string>green1</string>
 					<key>explanation</key>
-					<string>這字是表示對方的笑話戳到自己的笑穴笑點的意思</string>
+					<string>「ツボに入る」（戳到穴道）是指自己的最喜歡，最重視的事物被精確地說中的意思。此句是衍生成自己覺得最好笑的事情發生了（被戳中笑穴），所以笑個不停的說法。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>ハッハハハハ　　ハッハハハハ　　ハッハハハハ　ヒャッハー</string>
+							<string>ハッハハハ　　ハッハハハ　　ハッハハハ　ヒャッハー</string>
 							<key>detail</key>
-							<string>哈，哈哈哈....哈哈哈哈哈..嘻嘻嘻哈哈哈哈（笑個不停）</string>
+							<string>哈，哈哈哈....哈哈哈哈..嘻嘻嘻哈哈哈哈（笑個不停）</string>
 							<key>audio</key>
 							<string>tsubo2.mp3</string>
 						</dict>
@@ -44,7 +44,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>おい、あなたツボに入りすぎじゃない。</string>
+							<string>おい、あなたツボに入りすぎじゃない</string>
 							<key>detail</key>
 							<string>你是點到笑穴了哦你！</string>
 							<key>audio</key>
@@ -64,7 +64,7 @@
 					<key>image</key>
 					<string>green2</string>
 					<key>explanation</key>
-					<string>its a 3 Item</string>
+					<string></string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -73,7 +73,7 @@
 							<key>title</key>
 							<string>どうこの洋服私に似合ってる？</string>
 							<key>detail</key>
-							<string>怎樣？這件好看嗎？</string>
+							<string></string>
 							<key>audio</key>
 							<string>bimyo2.mp3</string>
 						</dict>
@@ -81,9 +81,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うーん、色がかなー。微妙だなー。</string>
+							<string>うーん、色がかなー。微妙だなー</string>
 							<key>detail</key>
-							<string>嗯..顏色有點詭異，難以言喻</string>
+							<string>嗯..顏色有點那個～有點微妙耶～</string>
 							<key>audio</key>
 							<string>bimyo3.mp3</string>
 						</dict>
@@ -111,16 +111,16 @@
 					<key>image</key>
 					<string>green3</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>實際上實際上並非要聊天到早上的意思，只是表示有很多話想要聊的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>大丈夫。次に出会えるいい人の為の「別れ」だったんだよ。</string>
+							<string>大丈夫。次に出会えるいい人の為の「別れ」だったんだよ</string>
 							<key>detail</key>
-							<string>沒問題，分離是為了下次更好的相遇</string>
+							<string></string>
 							<key>audio</key>
 							<string>asamade2.mp3</string>
 						</dict>
@@ -138,7 +138,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>今日は朝までとことん語り合おう。</string>
+							<string>今日は朝までとことん語り合おう</string>
 							<key>detail</key>
 							<string>今天我們慢慢聊吧～</string>
 							<key>audio</key>
@@ -158,14 +158,14 @@
 					<key>image</key>
 					<string>green4</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>用手指觸摸可以用いじる。其他可用於被挑釁時用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>なに！このお腹！　気持ちいー！！　ツンツン！</string>
+							<string>なにこのお腹！　気持ちいー！　ツンツン</string>
 							<key>detail</key>
 							<string>這啥，這肚子！好好捏！戳戳</string>
 							<key>audio</key>
@@ -195,7 +195,7 @@
 					<key>image</key>
 					<string>green5</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>對於許久沒有做的事可以用的用語。遇到很久沒有見面的人也可以說，表示繼最後見面後有多久沒有見了的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -216,7 +216,7 @@
 							<key>detail</key>
 							<string>是喔！有多久沒來了？</string>
 							<key>audio</key>
-							<string>dorekurai2.mp3</string>
+							<string>dorekurai3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -242,14 +242,14 @@
 					<key>image</key>
 					<string>green6</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>想要一個人獨處時的用語，也可以用 ほっといてよ、私に構わないで、邪魔しないで日文表示別管我，不要打擾我的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>うっうっぅ（泣）</string>
+							<string>うっうっぅ</string>
 							<key>detail</key>
 							<string>嗚嗚嗚嗚</string>
 							<key>audio</key>
@@ -261,7 +261,7 @@
 							<key>title</key>
 							<string>どうしたの？大丈夫？</string>
 							<key>detail</key>
-							<string>你還好吧？</string>
+							<string></string>
 							<key>audio</key>
 							<string>waruikedo3.mp3</string>
 						</dict>
@@ -289,14 +289,14 @@
 					<key>image</key>
 					<string>green7</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>「いつも〜ばかりしている」意思是表示總是同樣事情發生。尤其用於表示不好的印象或不好的事情發生時常使用。例如 總是在玩電玩。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>ったく！！何であの人はいつもいつも自分勝手なの！！</string>
+							<string>ったく！何であの人はいつもいつも自分勝手なの！！</string>
 							<key>detail</key>
 							<string>真是的！為何他總是喜歡隨心所欲呢！</string>
 							<key>audio</key>
@@ -306,9 +306,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>落ち着いて、落ち着いて！！何でいつも喧嘩ばかりしているの？</string>
+							<string>落ち着いて、落ち着いて！何でいつも喧嘩ばかりしているの？</string>
 							<key>detail</key>
-							<string>冷靜冷靜！幹嘛ㄧ直吵架呢？</string>
+							<string>冷靜冷靜！幹嘛一直吵架呢？</string>
 							<key>audio</key>
 							<string>nandeitumo3.mp3</string>
 						</dict>
@@ -316,9 +316,9 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>分かんない。原因なんて忘れちゃったよ。</string>
+							<string>分かんない。原因なんて忘れちゃったよ</string>
 							<key>detail</key>
-							<string>不知道，理由忘記了</string>
+							<string>不知道，忘了是什麼原因了</string>
 							<key>audio</key>
 							<string>nandeitumo4.mp3</string>
 						</dict>
@@ -330,22 +330,22 @@
 					<key>title</key>
 					<string>この事は、シー（内緒）ね</string>
 					<key>detail</key>
-					<string>這件事 噓....保密內</string>
+					<string>這件事 噓....（保密）捏</string>
 					<key>audio</key>
 					<string>konokotoha.mp3</string>
 					<key>image</key>
 					<string>green8</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>把食指立在口鼻前，表示請人保密的時候用，或也可以表示要求安靜時用語。跟中文的「噓！」意思一樣。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>そうなの！今度のバレンタインの時にチョコを渡そうと思ってるの。</string>
+							<string>そうなの！今度のバレンタインの時にチョコを渡そうと思ってるの</string>
 							<key>detail</key>
-							<string>是喔！下次情人節時想送巧克力呀！</string>
+							<string>是喔！這次情人節時要準備送巧克力（告白）呀！</string>
 							<key>audio</key>
 							<string>konokotoha2.mp3</string>
 						</dict>
@@ -355,7 +355,7 @@
 							<key>title</key>
 							<string>やるぅーいいね。　お相手は、あの人？</string>
 							<key>detail</key>
-							<string>很好呀！送誰呀？那個人？</string>
+							<string></string>
 							<key>audio</key>
 							<string>konokotoha3.mp3</string>
 						</dict>
@@ -365,7 +365,7 @@
 							<key>title</key>
 							<string>うん、そう。（恥）でも、この事はシー（内緒）ね</string>
 							<key>detail</key>
-							<string>嗯，但這事噓---要保密唷</string>
+							<string></string>
 							<key>audio</key>
 							<string>konokotoha4.mp3</string>
 						</dict>
@@ -375,46 +375,36 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>ここだけの秘密なんだけど</string>
+					<string>嘘！？ありえな〜い</string>
 					<key>detail</key>
-					<string>不能說的秘密，只能在這說的秘密</string>
+					<string>真的假的！？怎麼可能～</string>
 					<key>audio</key>
-					<string>kokodake.mp3</string>
+					<string>uso.mp3</string>
 					<key>image</key>
 					<string>green9</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>原意是不可能的意思，用於表示很驚訝、難以置信的心情。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>ここだけの秘密なんだけど、実は凄いこと知ってしまったんだ！</string>
+							<string>聞いた聞いた？あの先生が結婚したみたいよ</string>
 							<key>detail</key>
-							<string>有個秘密只能在這裡說，我不小心知道了ㄧ件很精彩的事唷！</string>
+							<string>聽說了嗎?那個老師好像結婚了耶</string>
 							<key>audio</key>
-							<string>kokodake.mp3</string>
+							<string>uso2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うん、誰にも言わないから教えて。</string>
+							<string>嘘！？ありえな〜い</string>
 							<key>detail</key>
-							<string>哦！我不會告訴別人的！告訴我吧！</string>
+							<string>真的假的！怎麼可能～～～</string>
 							<key>audio</key>
-							<string>kokodake2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>2</integer>
-							<key>title</key>
-							<string>実は、この間偶然道を歩いていたら...</string>
-							<key>detail</key>
-							<string>其實呀，我走在路上時無意間看到⋯⋯</string>
-							<key>audio</key>
-							<string>kokodake3.mp3</string>
+							<string>uso3.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -424,20 +414,20 @@
 					<key>title</key>
 					<string>あぁ言えばこう言う</string>
 					<key>detail</key>
-					<string> 又在狡辯</string>
+					<string>我說一句你回一句</string>
 					<key>audio</key>
 					<string>aaieba.mp3</string>
 					<key>image</key>
 					<string>green10</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>對於說歪理狡辯的人可以使用的用語。有一種這個人讓人困擾的心情在裡面。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>また、こんなにテーブルの上汚しててーすぐ片付けなさい。</string>
+							<string>また、こんなにテーブルの上汚しててーすぐ片付けなさい</string>
 							<key>detail</key>
 							<string>桌子又被弄髒了啦！趕快擦乾淨！</string>
 							<key>audio</key>
@@ -459,7 +449,7 @@
 							<key>title</key>
 							<string>あぁ言えばこう言うんじゃないの。いつもそう言ってやらないじゃない！</string>
 							<key>detail</key>
-							<string>又在狡辯！每次都這樣說可是都沒做不是嗎！</string>
+							<string>我說一句你回一句！每次都這樣說可是都沒做不是嗎！</string>
 							<key>audio</key>
 							<string>aaieba4.mp3</string>
 						</dict>
@@ -471,22 +461,22 @@
 					<key>title</key>
 					<string>まだ、根に持ってるの？</string>
 					<key>detail</key>
-					<string>在記恨？</string>
+					<string>還在生氣嗎？</string>
 					<key>audio</key>
 					<string>madaneni.mp3</string>
 					<key>image</key>
 					<string>green11</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>確認對方是否在生氣時的用語，但是在你說出這句話後讓對方更生氣也有可能，所以要小心使用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>ッフン（怒り）</string>
+							<string>ッフン</string>
 							<key>detail</key>
-							<string>生氣中</string>
+							<string>哼！</string>
 							<key>audio</key>
 							<string>madaneni2.mp3</string>
 						</dict>
@@ -518,13 +508,13 @@
 					<key>title</key>
 					<string>２人はどういう関係なの？</string>
 					<key>detail</key>
-					<string>2人是啥關係?</string>
+					<string></string>
 					<key>audio</key>
 					<string>hutariwa.mp3</string>
 					<key>image</key>
 					<string>green12</string>
 					<key>explanation</key>
-					<string>情侶,朋友,同事等,想知道對方的關係時可用</string>
+					<string>情侶,朋友,同事等,想知道對方的關係時可用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -533,7 +523,7 @@
 							<key>title</key>
 							<string>２人はどういう関係なの？</string>
 							<key>detail</key>
-							<string>2人是啥關係?</string>
+							<string>你們倆是什麼關係呢?</string>
 							<key>audio</key>
 							<string>hutariwa2.mp3</string>
 						</dict>
@@ -578,7 +568,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>久しぶりだね。相変わらず元気そうだね。</string>
+							<string>久しぶりだね。相変わらず元気そうだね</string>
 							<key>detail</key>
 							<string>好久不見耶,還是跟以往一樣有朝氣阿</string>
 							<key>audio</key>
@@ -590,7 +580,7 @@
 							<key>title</key>
 							<string>あなたもね</string>
 							<key>detail</key>
-							<string>常用在和很久不見的人見面時的打招呼語,表示和以前一樣都沒有變的意思</string>
+							<string>你也是耶</string>
 							<key>audio</key>
 							<string>aikawarazu4.mp3</string>
 						</dict>
@@ -615,7 +605,7 @@
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>うわ、雨が降って来た。</string>
+							<string>うわ、雨が降って来た</string>
 							<key>detail</key>
 							<string>哎呀呀,下起雨來了</string>
 							<key>audio</key>
@@ -625,7 +615,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>本当だ。家すぐそこだから、ウチに来る？雨が止むまでゆっくりしていいよ。</string>
+							<string>本当だ。家すぐそこだから、ウチに来る？雨が止むまでゆっくりしていいよ</string>
 							<key>detail</key>
 							<string>真的耶,我家就在附近,要來我家嗎?來我家慢慢等雨停吧</string>
 							<key>audio</key>
@@ -635,9 +625,9 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>助かる。ありがとう。</string>
+							<string>助かる。ありがとう</string>
 							<key>detail</key>
-							<string>這字可以表示家的意思,或自己的家庭,家族,老婆之類</string>
+							<string>太好了,謝謝</string>
 							<key>audio</key>
 							<string>uchinikuru4.mp3</string>
 						</dict>
@@ -655,7 +645,7 @@
 					<key>image</key>
 					<string>green15</string>
 					<key>explanation</key>
-					<string>同樣路繞了好多次，ㄧ直在原地打轉的感覺。除了用在走路上也可以用於事物上毫無進展時</string>
+					<string>同樣路繞了好多次，ㄧ直在原地打轉的感覺。除了用在走路上也可以用於事物上毫無進展時。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -672,9 +662,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>本当だ。ごめん。</string>
+							<string>本当だ。ごめん</string>
 							<key>detail</key>
-							<string>真的耶。抱歉。</string>
+							<string>真的耶。抱歉</string>
 							<key>audio</key>
 							<string>ittarikitari3.mp3</string>
 						</dict>
@@ -682,7 +672,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>・・・方向音痴。</string>
+							<string>・・・方向音痴</string>
 							<key>detail</key>
 							<string>路癡耶</string>
 							<key>audio</key>
@@ -694,7 +684,7 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>確かにそうだね。</string>
+					<string>確かにそうだね</string>
 					<key>detail</key>
 					<string>的確如此</string>
 					<key>audio</key>
@@ -702,14 +692,14 @@
 					<key>image</key>
 					<string>green16</string>
 					<key>explanation</key>
-					<string></string>
+					<string>對於對方說的話表示完全贊同的用語。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>今回は、野菜だけダイエットに挑戦してるんだ。</string>
+							<string>今回は、野菜だけダイエットに挑戦してるんだ</string>
 							<key>detail</key>
 							<string>這次要只吃菜來減肥</string>
 							<key>audio</key>
@@ -719,7 +709,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>無理しないでね。牛だって毎日野菜しか食べてないけどあんなに太ってるよ。</string>
+							<string>無理しないでね。牛だって毎日野菜しか食べてないけどあんなに太ってるよ</string>
 							<key>detail</key>
 							<string>不要勉強耶，你看牛牛們每天吃草還不是這麼肥大</string>
 							<key>audio</key>
@@ -729,7 +719,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>ははは、確かにそうだね。</string>
+							<string>ははは、確かにそうだね</string>
 							<key>detail</key>
 							<string>哈哈哈，的確如此耶</string>
 							<key>audio</key>
@@ -743,13 +733,13 @@
 					<key>title</key>
 					<string>ずっと、眠ったままだった</string>
 					<key>detail</key>
-					<string>ㄧ直沈睡著</string>
+					<string>ㄧ直放在那邊沒用</string>
 					<key>audio</key>
 					<string>zutto.mp3</string>
 					<key>image</key>
 					<string>green17</string>
 					<key>explanation</key>
-					<string></string>
+					<string>用在事或物上可以表示一直都沒有使用或發生一直擱置在那的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -766,7 +756,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>ううん、ずっと家で眠ったままだったやつ。久しぶり履いたら気に入ってさ。</string>
+							<string>ううん、ずっと家で眠ったままだったやつ。久しぶり履いたら気に入ってさ</string>
 							<key>detail</key>
 							<string>沒有耶，ㄧ直擺在家裡的，雖然很久沒穿，但還蠻好穿的</string>
 							<key>audio</key>
@@ -796,7 +786,7 @@
 					<key>image</key>
 					<string>green18</string>
 					<key>explanation</key>
-					<string></string>
+					<string>請客人來家裡作客時用語。在工作場所使用的話是指工作結束回去也可以唷的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -843,7 +833,7 @@
 					<key>image</key>
 					<string>green19</string>
 					<key>explanation</key>
-					<string>原來要作的事順便作另一件事時用的</string>
+					<string>「ついでに」用於做某件事時，順便做另一件事時。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -852,7 +842,7 @@
 							<key>title</key>
 							<string>よし、CMだ。トイレ行こう〜</string>
 							<key>detail</key>
-							<string>廣告中,來去上廁所</string>
+							<string>進廣告了,來去上廁所～</string>
 							<key>audio</key>
 							<string>tsuideni2.mp3</string>
 						</dict>
@@ -880,7 +870,7 @@
 					<key>image</key>
 					<string>green20</string>
 					<key>explanation</key>
-					<string>這是用在為了想知道而做的動作,其他有問看看,吃看看,考慮看看等等
+					<string>這是用在為了想知道而做的動作,其他有問看看,吃看看,考慮看看等等。
 &quot;</string>
 					<key>chats</key>
 					<array>
@@ -888,9 +878,9 @@
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>買い物行くから、おばさんに何買って来て欲しいか聞いてちょうだい。</string>
+							<string>買い物行くから、おばさんに何買って来て欲しいか聞いてちょうだい</string>
 							<key>detail</key>
-							<string>我要去買東西,去幫我問一下奶奶有沒有啥要買的好嗎</string>
+							<string>我要出門買東西,去幫我問一下阿姨有什麼要買的好嗎？</string>
 							<key>audio</key>
 							<string>wakatta2.mp3</string>
 						</dict>
@@ -955,7 +945,7 @@
 					<key>image</key>
 					<string>green22</string>
 					<key>explanation</key>
-					<string>這句是用於完全沒有頭緒線索,也就是完全不了解的意思</string>
+					<string>這句是用於完全沒有頭緒線索,也就是完全不了解的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -992,7 +982,7 @@
 					<key>image</key>
 					<string>green23</string>
 					<key>explanation</key>
-					<string>ちょくちょくは、短い間に同じことをすることを意味する。「妹はちょくちょく家に遊びに来る」など。</string>
+					<string>這句話的意思是短時間內做同件事。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1029,16 +1019,16 @@
 					<key>image</key>
 					<string>green24</string>
 					<key>explanation</key>
-					<string></string>
+					<string>對於對方親切的態度表感謝時用語。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>体調悪いでしょ？後の仕事は任せて、ゆっくり休んでて。</string>
+							<string>体調悪いでしょ？後の仕事は任せて、ゆっくり休んでて</string>
 							<key>detail</key>
-							<string>身體不舒服吧？之後工作交給我吧，你趕快回家好好休息吧</string>
+							<string>身體不舒服吧？之後工作交給我吧、你趕快回家好好休息吧</string>
 							<key>audio</key>
 							<string>kiotsukatte2.mp3</string>
 						</dict>
@@ -1058,15 +1048,15 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>そりゃーそうだよ。</string>
+					<string>そりゃーそうだよ</string>
 					<key>detail</key>
-					<string>當然，廢話，啊不然咧</string>
+					<string>那當然，廢話，啊不然咧</string>
 					<key>audio</key>
 					<string>soryasou.mp3</string>
 					<key>image</key>
 					<string>green25</string>
 					<key>explanation</key>
-					<string></string>
+					<string>這句是表示當然，理所當然，廢話的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1083,7 +1073,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>そりゃーそうだよ。だって、明日台風来るもん。</string>
+							<string>そりゃーそうだよ。だって、明日台風来るもん</string>
 							<key>detail</key>
 							<string>當然，就說明天颱風要來咩</string>
 							<key>audio</key>
@@ -1103,14 +1093,14 @@
 					<key>image</key>
 					<string>green26</string>
 					<key>explanation</key>
-					<string></string>
+					<string>到別人家作客時日本人通常會說的禮貌用語。表示不好意思打擾了的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>お邪魔しまーす！</string>
+							<string>お邪魔しまーす</string>
 							<key>detail</key>
 							<string>打擾了</string>
 							<key>audio</key>
@@ -1120,9 +1110,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>はーい、どうぞ。散らかってるけどゆっくりしていって。</string>
+							<string>はーい、どうぞ。散らかってるけどゆっくりしていって</string>
 							<key>detail</key>
-							<string>請進來吧，雖然有點亂隨便坐呀</string>
+							<string>請進來吧，雖然有點亂不過不要客氣喲</string>
 							<key>audio</key>
 							<string>ojamasimasu3.mp3</string>
 						</dict>
@@ -1134,20 +1124,20 @@
 					<key>title</key>
 					<string>みたいになってる</string>
 					<key>detail</key>
-					<string>好像......</string>
+					<string>看起來好像......</string>
 					<key>audio</key>
 					<string>mitaini.mp3</string>
 					<key>image</key>
 					<string>green27</string>
 					<key>explanation</key>
-					<string></string>
+					<string>用於某事或某人相似時所使用的日文。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>今日のあなたの髪型、ライオンみたいになってる。</string>
+							<string>今日のあなたの髪型、ライオンみたいになってる</string>
 							<key>detail</key>
 							<string>你今天的髮型好像獅子</string>
 							<key>audio</key>
@@ -1157,7 +1147,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>走ってきたから、こうなっちゃった。</string>
+							<string>走ってきたから、こうなっちゃった</string>
 							<key>detail</key>
 							<string>飛奔過來所以就變這樣了</string>
 							<key>audio</key>
@@ -1169,7 +1159,7 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>言ってること矛盾してるよ。</string>
+					<string>言ってること矛盾してるよ</string>
 					<key>detail</key>
 					<string>說詞有矛盾</string>
 					<key>audio</key>
@@ -1177,7 +1167,7 @@
 					<key>image</key>
 					<string>green28</string>
 					<key>explanation</key>
-					<string></string>
+					<string>與中文的「矛盾」同義，表示兩件事物意義相反，只能擇其一。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1196,7 +1186,7 @@
 							<key>title</key>
 							<string>言ってること矛盾してるよ。ある訳ないじゃん。ちゃんと仕事探しなさい！</string>
 							<key>detail</key>
-							<string>你講話有矛盾耶,怎可能有!認真去找工作啦</string>
+							<string>你講話很矛盾耶,怎麼可能有!認真去找工作啦！</string>
 							<key>audio</key>
 							<string>itterukoto3.mp3</string>
 						</dict>
@@ -1214,7 +1204,7 @@
 					<key>image</key>
 					<string>green29</string>
 					<key>explanation</key>
-					<string></string>
+					<string>對於對方的意見表示同意時的用語。對於長輩則用「なるほどですね」。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1231,7 +1221,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>ああーなるほどね。わかったわかった。</string>
+							<string>ああーなるほどね。わかったわかった</string>
 							<key>detail</key>
 							<string>喔！原來如此！了解了</string>
 							<key>audio</key>
@@ -1251,7 +1241,7 @@
 					<key>image</key>
 					<string>green30</string>
 					<key>explanation</key>
-					<string>有種長話短說,因為這樣這樣所以那樣那樣⋯的意思</string>
+					<string>有種長話短說,因為這樣這樣所以那樣那樣⋯的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1268,9 +1258,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>いや〜　道端で重そうに荷物持ってるおばあさんがいてさーそんなこんなで遅くなったんだよ。</string>
+							<string>いや〜　道端で重そうに荷物持ってるおばあさんがいてさーそんなこんなで遅くなったんだよ</string>
 							<key>detail</key>
-							<string>唉喲，途中看到有歐巴桑提重物⋯然後又發生了很多事，才遲到的啦</string>
+							<string>唉喲，途中看到有婆婆提重物⋯然後又發生了很多事，才遲到的啦</string>
 							<key>audio</key>
 							<string>sonnakonnna3.mp3</string>
 						</dict>
@@ -1298,14 +1288,14 @@
 					<key>image</key>
 					<string>green31</string>
 					<key>explanation</key>
-					<string></string>
+					<string>形容人內在與外在的反差。「那個人看起來一副ＯＯＯ的樣子，實際上是個ＸＸＸ的人唷！」。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>あなたの友達の彼は、言い方悪いけどバカっぽいね。</string>
+							<string>あなたの友達の彼は、言い方悪いけどバカっぽいね</string>
 							<key>detail</key>
 							<string>你朋友的男友，講難聽點有點白癡</string>
 							<key>audio</key>
@@ -1345,7 +1335,7 @@
 					<key>image</key>
 					<string>green32</string>
 					<key>explanation</key>
-					<string></string>
+					<string>至今沒想過，突然想到，要跟對方說的時候可以使用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1409,7 +1399,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>時間がもったいないよ。どっちみち２つともやるんだから、悩まずすぐやる。</string>
+							<string>時間がもったいないよ。どっちみち２つともやるんだから、悩まずすぐやる</string>
 							<key>detail</key>
 							<string>真浪費時間！反正你兩個都要唸，不要煩惱趕快唸</string>
 							<key>audio</key>
@@ -1429,7 +1419,7 @@
 					<key>image</key>
 					<string>green34</string>
 					<key>explanation</key>
-					<string></string>
+					<string>這句話是表用車子或計程車送對方回到家的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1446,7 +1436,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>お疲れ。暗いし家まで送ってあげるよ。</string>
+							<string>お疲れ。暗いし家まで送ってあげるよ</string>
 							<key>detail</key>
 							<string>你也辛苦了，天很暗了我送你回家吧</string>
 							<key>audio</key>
@@ -1454,160 +1444,228 @@
 						</dict>
 					</array>
 				</dict>
-			</array>
-		</dict>
-	</dict>
-	<dict>
-		<key>id</key>
-		<integer>110</integer>
-		<key>title</key>
-		<string>諺語</string>
-		<key>image</key>
-		<string>icon2</string>
-		<key>phrases</key>
-		<dict>
-			<key>title</key>
-			<string>ok</string>
-			<key>array</key>
-			<array>
 				<dict>
 					<key>id</key>
-					<integer>0</integer>
+					<integer>3</integer>
 					<key>title</key>
-					<string>三日坊主にならないでね</string>
+					<string>誤魔化さないでちゃんと言って</string>
 					<key>detail</key>
-					<string>不要只有三分鐘熱度唷！</string>
+					<string>不要隱瞞從實招來</string>
 					<key>audio</key>
-					<string>mikka.mp3</string>
+					<string>gomakasanai.mp3</string>
 					<key>image</key>
-					<string>red1</string>
+					<string>green35</string>
 					<key>explanation</key>
-					<string>類似中文裡的三天打魚、兩天曬網的比喻, ,意思就是說做什麼事都是三分鐘熱度, 不能夠持之以恆、沒有耐性</string>
+					<string>對方不願清楚說明白時，要求對方說清楚時候用語。生氣或要求注意的時候也可以使用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>んふふふ、これ買っちゃった。</string>
+							<string>なんで、今度のパーティー行かないの？</string>
 							<key>detail</key>
-							<string>哇哈哈我買了這個</string>
+							<string>為什麼不參加這次趴踢？</string>
 							<key>audio</key>
-							<string>mikka2.mp3</string>
+							<string>gomakasanai2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うわ、最近流行ってるダイエット器具じゃん！三日坊主にならないでね。&quot;</string>
+							<string>え、だって...家の手伝いがある様な気がするし...気分も悪い様な気がするし...</string>
 							<key>detail</key>
-							<string>哇～這是現在很夯的減肥器材耶！不要只有三分鐘熱度唷！</string>
+							<string>嗯....因為又要做家事，又心情不好</string>
 							<key>audio</key>
-							<string>mikka3.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>もちろん！今度こそ、絶対三日坊主にならない！</string>
-							<key>detail</key>
-							<string>當然！這次不會這麼快膩啦！</string>
-							<key>audio</key>
-							<string>mikka4.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>2</integer>
-					<key>title</key>
-					<string>二度あることは三度ある</string>
-					<key>detail</key>
-					<string>一而再再而三</string>
-					<key>audio</key>
-					<string>nidoarukoto.mp3</string>
-					<key>image</key>
-					<string>red2</string>
-					<key>explanation</key>
-					<string>its a 3 Item</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>ウワァー！またダイエット失敗したの！？</string>
-							<key>detail</key>
-							<string>唉，減肥又失敗了</string>
-							<key>audio</key>
-							<string>nidoarukoto2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>うん、何でかなー</string>
-							<key>detail</key>
-							<string>嗯，不知為何</string>
-							<key>audio</key>
-							<string>nidoarukoto3.mp3</string>
+							<string>gomakasanai3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>二度あることは三度あるよ</string>
+							<string>誤魔化さないでちゃんと言って！！</string>
 							<key>detail</key>
-							<string>ㄧ而再再而三耶</string>
+							<string>不要隱瞞從實招來</string>
 							<key>audio</key>
-							<string>nidoarukoto4.mp3</string>
+							<string>gomakasanai4.mp3</string>
 						</dict>
 					</array>
 				</dict>
 				<dict>
 					<key>id</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>title</key>
-					<string>三度目の正直</string>
+					<string>昨日夢見たんだけど...</string>
 					<key>detail</key>
-					<string>這個是第三次就會成功的</string>
+					<string>昨天作了一個夢.....</string>
 					<key>audio</key>
-					<string>mikka2.mp3</string>
+					<string>kinouyume.mp3</string>
 					<key>image</key>
-					<string>red3</string>
+					<string>green36</string>
 					<key>explanation</key>
-					<string>its a 3 Item</string>
+					<string>這單字是作夢的意思,睡著時做的夢,另外也可以用在心中浮現希望可以成真的事情時。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>また、懲りずにダイエットしてるの？</string>
+							<string>昨日夢見たんだけど...</string>
 							<key>detail</key>
-							<string>klnjklb</string>
+							<string>昨天做了一個夢......</string>
 							<key>audio</key>
-							<string>mikka2.mp3</string>
+							<string>kinouyume2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>大丈夫大丈夫。これが３度目の正直</string>
+							<string>うん、どんな夢？</string>
 							<key>detail</key>
-							<string>沒問題沒問題，這次是第三次會成功！</string>
+							<string>喔!怎樣的夢</string>
 							<key>audio</key>
-							<string>mikka2.mp3</string>
+							<string>kinouyume3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>二度あることは三度あるよ</string>
+							<string>彼と世界一周する話しなんだけど...はー正夢にならないかなー</string>
 							<key>detail</key>
-							<string>ㄧ而再再而三耶</string>
+							<string>跟男友一起環遊世界的夢...啊～如果是真的就好哩～</string>
 							<key>audio</key>
-							<string>mikka2.mp3</string>
+							<string>kinouyume4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>苦笑いやめてよ</string>
+					<key>detail</key>
+					<string>不要假笑</string>
+					<key>audio</key>
+					<string>nigawarai.mp3</string>
+					<key>image</key>
+					<string>green37</string>
+					<key>explanation</key>
+					<string>覺得不有趣而無可奈何地笑，假笑、乾笑的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>で、そしたら何て言った思う？「完璧な人間はいない」って言ったんだよ</string>
+							<key>detail</key>
+							<string>然後你知道他怎麼說嗎？他居然說：「世界上沒有完美的人類！」</string>
+							<key>audio</key>
+							<string>nigawarai2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>...はは　マジで！　その話ウケる　...ははっ</string>
+							<key>detail</key>
+							<string>........哈哈，真好笑！....哈哈、哈...</string>
+							<key>audio</key>
+							<string>nigawarai3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>おい！・・・苦笑いやめてよ</string>
+							<key>detail</key>
+							<string>喂！不要假笑啦</string>
+							<key>audio</key>
+							<string>nigawarai4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>時差ボケ治らないの？</string>
+					<key>detail</key>
+					<string>時差調好了嗎？</string>
+					<key>audio</key>
+					<string>jisaboke.mp3</string>
+					<key>image</key>
+					<string>green38</string>
+					<key>explanation</key>
+					<string>對於從國外歸來的人可以使用的話或者對於生活日夜顛倒的人可以使用</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ふわぁーあぁー　眠い</string>
+							<key>detail</key>
+							<string>啊　愛睏</string>
+							<key>audio</key>
+							<string>jisaboke2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>まだ、時差ボケ治らないの？</string>
+							<key>detail</key>
+							<string>時差還沒調好嗎？</string>
+							<key>audio</key>
+							<string>jisaboke3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>うん、まだ身体が慣れてないみたい。</string>
+							<key>detail</key>
+							<string>嗯，好像還沒調回來。</string>
+							<key>audio</key>
+							<string>jisaboke4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>それ多分気のせいだよ</string>
+					<key>detail</key>
+					<string>這大概是錯覺吧，想太多</string>
+					<key>audio</key>
+					<string>soretabun.mp3</string>
+					<key>image</key>
+					<string>green39</string>
+					<key>explanation</key>
+					<string>自己想太多，沒有任合根據，莫名感到的錯覺。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>なんか寒気するなー昨日、怖いビデオ見たからかなー</string>
+							<key>detail</key>
+							<string>總覺得很冷耶！是不是昨天看了恐怖片的關係啊...</string>
+							<key>audio</key>
+							<string>soretabun2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>へー、それ多分気のせいだよ</string>
+							<key>detail</key>
+							<string>ㄟ～是你的錯覺吧．</string>
+							<key>audio</key>
+							<string>soretabun3.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -1620,7 +1678,7 @@
 		<key>title</key>
 		<string>流行語</string>
 		<key>image</key>
-		<string>icon3</string>
+		<string>lesson2</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -1656,7 +1714,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うん。だって彼の足がとても臭かったから。。。それを指摘しただけなんだけどな〜</string>
+							<string>うん。だって彼の足がとても臭かったから。。それを指摘しただけなんだけどな〜</string>
 							<key>detail</key>
 							<string>嘿呀，因為男友的腳超臭,我抱怨了一下而已</string>
 							<key>audio</key>
@@ -1668,7 +1726,7 @@
 							<key>title</key>
 							<string>ははは、超ウケる〜　そりゃー彼氏も怒るよ</string>
 							<key>detail</key>
-							<string>&quot;哈哈哈，超好笑的，這當然男友會生氣
+							<string>哈哈哈，超好笑的，這當然男友會生氣
 &quot;</string>
 							<key>audio</key>
 							<string>chouke4.mp3</string>
@@ -1687,14 +1745,14 @@
 					<key>image</key>
 					<string>green2</string>
 					<key>explanation</key>
-					<string>一時爆紅時可以用像那個髮型正流行,正夯那個服裝是現在最流行的可以用於服飾流行,用語或行為都可以用跟中文的流行,很夯,很紅意思一樣</string>
+					<string>一時間、短時間內就在社會大眾間傳播開來的事．像「那個髮型正流行」「那個服裝是現在最流行的」對於裝扮,用語或行為都可以用跟中文的流行,很夯,很紅意思一樣。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>見て！またあの靴だ。</string>
+							<string>見て！またあの靴だ</string>
 							<key>detail</key>
 							<string>你看,又是那雙鞋                                                                                                                                                                             </string>
 							<key>audio</key>
@@ -1704,9 +1762,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>多いねー。最近、流行っているなー。</string>
+							<string>多いねー。最近、流行っているなー</string>
 							<key>detail</key>
-							<string>好多耶,最近好像很夯歐</string>
+							<string>很多人穿耶,最近好像很流行喔～</string>
 							<key>audio</key>
 							<string>saikinhaya3.mp3</string>
 						</dict>
@@ -1724,7 +1782,7 @@
 					<key>image</key>
 					<string>green3</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>日式英文。image change 的意思。表示改變給人的印象或感覺的用語。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1741,7 +1799,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>へへっ、うん、ちょっとイメチェンしてみた。</string>
+							<string>へへっ、うん、ちょっとイメチェンしてみた</string>
 							<key>detail</key>
 							<string>嘿嘿，想改變一下</string>
 							<key>audio</key>
@@ -1751,7 +1809,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>可愛いー似合ってるよ。</string>
+							<string>可愛いー似合ってるよ</string>
 							<key>detail</key>
 							<string>很可愛唷！很適合你</string>
 							<key>audio</key>
@@ -1771,7 +1829,7 @@
 					<key>image</key>
 					<string>green4</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>這詞是關西腔。但現在年輕人也常使用。有「非常」的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1782,7 +1840,7 @@
 							<key>detail</key>
 							<string>你看你看那個臉！</string>
 							<key>audio</key>
-							<string>mechabaka2.mp3</string>
+							<string>mechabaka3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -1792,7 +1850,7 @@
 							<key>detail</key>
 							<string>哈哈哈，在幹嘛啦，有夠蠢</string>
 							<key>audio</key>
-							<string>mechabaka3.mp3</string>
+							<string>mechabaka2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -1818,7 +1876,7 @@
 					<key>image</key>
 					<string>green5</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>流行語。雖然機會渺茫但說不定可以成功的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1855,14 +1913,14 @@
 					<key>image</key>
 					<string>green6</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>流行語。這是從英文disrespect衍伸而來。把對方當笨蛋椰榆。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>この歌手あまり好きじゃない！歌下手だし、踊り上手くないし、可愛くないし。</string>
+							<string>この歌手あまり好きじゃない！歌下手だし、踊り上手くないし、可愛くないし</string>
 							<key>detail</key>
 							<string>不是很喜歡那歌手，唱歌不好聽，跳舞也很差，長的也不正</string>
 							<key>audio</key>
@@ -1872,7 +1930,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>おいおい、ディスるんじゃないの！！　でも、彼女らは今は結構人気だよ。</string>
+							<string>おいおい、ディスるんじゃないの！！　でも、彼女らは今は結構人気だよ</string>
 							<key>detail</key>
 							<string>ㄟ，整個很討厭她耶。但她現在很紅</string>
 							<key>audio</key>
@@ -1882,7 +1940,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>そうだね、ごめん。彼氏はこの子らのライブばっか行って、遊んでくれないし。</string>
+							<string>そうだね、ごめん。彼氏はこの子らのライブばっか行って、遊んでくれないし</string>
 							<key>detail</key>
 							<string>是啊，抱歉！男友一直去看她的演唱會都不跟我玩</string>
 							<key>audio</key>
@@ -1902,7 +1960,7 @@
 					<key>image</key>
 					<string>green7</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>感到驕傲時的臉部表情。年輕人，動漫也常會出現字眼。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1919,9 +1977,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>もちろん。フンっ（鼻息）</string>
+							<string>もちろん。フンっ</string>
 							<key>detail</key>
-							<string>那當然！</string>
+							<string>那當然！哼哼～</string>
 							<key>audio</key>
 							<string>doyagao3.mp3</string>
 						</dict>
@@ -1929,7 +1987,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>めっちゃドヤ顔だな。</string>
+							<string>めっちゃドヤ顔だな</string>
 							<key>detail</key>
 							<string>看你一臉得意的樣子</string>
 							<key>audio</key>
@@ -1949,7 +2007,7 @@
 					<key>image</key>
 					<string>green8</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>流行語。跟英文的ＮＯＷ意思直翻成日文的意思。表示正在做某件事的意思</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -1993,7 +2051,7 @@
 		<key>title</key>
 		<string>動漫常出現用語</string>
 		<key>image</key>
-		<string>icon19</string>
+		<string>lesson3</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -2021,7 +2079,7 @@
 							<key>title</key>
 							<string>はーテストまでもう３日だ.....</string>
 							<key>detail</key>
-							<string>再3天就要考試了⋯</string>
+							<string>哎～再3天就要考試了⋯</string>
 							<key>audio</key>
 							<string>bishibashi2.mp3</string>
 						</dict>
@@ -2043,13 +2101,13 @@
 					<key>title</key>
 					<string>リア充してるなー</string>
 					<key>detail</key>
-					<string>很充實壓</string>
+					<string>（現實生活）過得很充實耶～</string>
 					<key>audio</key>
 					<string>riajun.mp3</string>
 					<key>image</key>
 					<string>yellow2</string>
 					<key>explanation</key>
-					<string>是從網路用語衍生出來的詞彙動漫跟年輕人常使用的詞彙,表現實生活很豐富的意思</string>
+					<string>是從網路用語衍生出來的詞彙動漫跟年輕人常使用的詞彙,表現實生活很豐富的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2068,7 +2126,7 @@
 							<key>title</key>
 							<string>これから、大学の飲み会行って、その後に彼ん家で泊まるんだー</string>
 							<key>detail</key>
-							<string>等一下要去大學同學會,之後要去男友家</string>
+							<string>&quot;等一下要去大學同學會,之後要去男友家&quot;</string>
 							<key>audio</key>
 							<string>riajun3.mp3</string>
 						</dict>
@@ -2078,7 +2136,7 @@
 							<key>title</key>
 							<string>いいなーリア充してるねー</string>
 							<key>detail</key>
-							<string>好好喔,好充實阿</string>
+							<string>好好喔,過得好充實唷～</string>
 							<key>audio</key>
 							<string>riajun4.mp3</string>
 						</dict>
@@ -2096,7 +2154,7 @@
 					<key>image</key>
 					<string>yellow3</string>
 					<key>explanation</key>
-					<string>its a 4th</string>
+					<string>這是從英文neet翻過來的日文。也被稱為尼特族，是指待在家裡不讀書不工作整天一無事事的人。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2105,7 +2163,7 @@
 							<key>title</key>
 							<string>仕事辞めたんだって？</string>
 							<key>detail</key>
-							<string>剪頭髮了？</string>
+							<string>聽說你辭職了？</string>
 							<key>audio</key>
 							<string>nitodayo2.mp3</string>
 						</dict>
@@ -2113,7 +2171,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>ははは、そう。だから、今はニートだよ。</string>
+							<string>ははは、そう。だから、今はニートだよ</string>
 							<key>detail</key>
 							<string>哈哈，對呀，現在是家裡蹲呀</string>
 							<key>audio</key>
@@ -2123,11 +2181,952 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>大丈夫。君ならすぐ良いとこ見つかるよ。</string>
+							<string>大丈夫。君ならすぐ良いとこ見つかるよ</string>
 							<key>detail</key>
 							<string>沒問題啦，你很快就會找到更好的工作的</string>
 							<key>audio</key>
 							<string>nitodayo4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>あなたの心はガラスのハートだな〜</string>
+					<key>detail</key>
+					<string>你很玻璃心耶</string>
+					<key>audio</key>
+					<string>anatanokokoro.mp3</string>
+					<key>image</key>
+					<string>yellow4</string>
+					<key>explanation</key>
+					<string>「ガラスのハート」意思是是玻璃做的心臟，跟中文說的玻璃心一樣，心像玻璃般很脆弱，容易破裂。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>彼に嫌われたかも、連絡が返ってこない</string>
+							<key>detail</key>
+							<string>男友好像討厭我了，怎麼聯絡都沒有回覆</string>
+							<key>audio</key>
+							<string>anatanokokoro2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>忙しいだけだよーあなたの心はガラスのハートだな！！</string>
+							<key>detail</key>
+							<string>應該只是在忙吧，你也太玻璃心了吧！</string>
+							<key>audio</key>
+							<string>anatanokokoro3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>110</integer>
+		<key>title</key>
+		<string>用餐的時候</string>
+		<key>image</key>
+		<string>lesson4</string>
+		<key>phrases</key>
+		<dict>
+			<key>title</key>
+			<string>ok</string>
+			<key>array</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>いただきます</string>
+					<key>detail</key>
+					<string>我開動了</string>
+					<key>audio</key>
+					<string>itadaki.mp3</string>
+					<key>image</key>
+					<string>yellow1</string>
+					<key>explanation</key>
+					<string>這句話是吃飯要開動時的禮貌用語。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>イェーイ、ハンバーグだ。いただきまーす</string>
+							<key>detail</key>
+							<string>耶～是漢堡肉耶！開動囉！</string>
+							<key>audio</key>
+							<string>itadaki3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>野菜も残さす食べてね</string>
+							<key>detail</key>
+							<string>青菜耶也要吃完哦！</string>
+							<key>audio</key>
+							<string>itadaki2.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>ごちそうさま</string>
+					<key>detail</key>
+					<string>多謝款待</string>
+					<key>audio</key>
+					<string>gochisousama.mp3</string>
+					<key>image</key>
+					<string>yellow2</string>
+					<key>explanation</key>
+					<string>這句話是在用餐後的禮貌用語，對於做飯的人表示感謝的心情</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ごちそうさま</string>
+							<key>detail</key>
+							<string>多謝款待</string>
+							<key>audio</key>
+							<string>gochisousama2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>綺麗に食べたね。食べたら洗い物もよろしくね</string>
+							<key>detail</key>
+							<string>吃得很乾淨耶！吃完後洗碗也麻煩你囉！</string>
+							<key>audio</key>
+							<string>gochisousama3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>猫舌なんだもん</string>
+					<key>detail</key>
+					<string>貓舌頭=怕燙</string>
+					<key>audio</key>
+					<string>nekojita.mp3</string>
+					<key>image</key>
+					<string>yellow3</string>
+					<key>explanation</key>
+					<string>「猫舌」是用來形容像貓一樣怕喝熱的東西的人</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>フーフー　フーフー　</string>
+							<key>detail</key>
+							<string>呼呼呼...(吹氣聲)</string>
+							<key>audio</key>
+							<string>nekojita4.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>冷まし過ぎじゃない？ラーメン伸びちゃうよ</string>
+							<key>detail</key>
+							<string>你吹太久了吧？拉麵都要不Ｑ了</string>
+							<key>audio</key>
+							<string>nekojita2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>だって、猫舌なんだもん</string>
+							<key>detail</key>
+							<string>哎唷，我怕燙咩</string>
+							<key>audio</key>
+							<string>nekojita3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>たまにしか</string>
+					<key>detail</key>
+					<string>只有偶爾</string>
+					<key>audio</key>
+					<string>tamanisika.mp3</string>
+					<key>image</key>
+					<string>yellow4</string>
+					<key>explanation</key>
+					<string>這句是指「並不常發生」或「只是偶爾」的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ベジタリアンなの？肉は食べない？</string>
+							<key>detail</key>
+							<string>你吃素？不吃肉了呀？</string>
+							<key>audio</key>
+							<string>tamanisika.2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>完全なベジタリアンではないけど、肉はたまにしか食べないよ</string>
+							<key>detail</key>
+							<string>也不是吃全素啦，但肉只有偶爾吃唷</string>
+							<key>audio</key>
+							<string>tamanisika.3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>どれどれ</string>
+					<key>detail</key>
+					<string>什麼什麼！</string>
+					<key>audio</key>
+					<string>doredore.mp3</string>
+					<key>image</key>
+					<string>yellow5</string>
+					<key>explanation</key>
+					<string>跟中文的&apos;&apos;哪個哪個&apos;&apos;&apos;&apos;什麼什麼&apos;&apos;意思有點像。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>今回のペペロンチーノの出来栄えは最高だ！</string>
+							<key>detail</key>
+							<string>這次作的義大利麵超級成功！</string>
+							<key>audio</key>
+							<string>doredore2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>どれどれ、味見してみよう</string>
+							<key>detail</key>
+							<string>什麼什麼～讓我吃吃看</string>
+							<key>audio</key>
+							<string>doredore3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>110</integer>
+		<key>title</key>
+		<string>諺語</string>
+		<key>image</key>
+		<string>lesson5</string>
+		<key>phrases</key>
+		<dict>
+			<key>title</key>
+			<string>ok</string>
+			<key>array</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>三日坊主にならないでね</string>
+					<key>detail</key>
+					<string>不要只有三分鐘熱度唷！</string>
+					<key>audio</key>
+					<string>mikka.mp3</string>
+					<key>image</key>
+					<string>red1</string>
+					<key>explanation</key>
+					<string>類似中文裡的三天打魚、兩天曬網的比喻。意思就是說做什麼事都是三分鐘熱度, 不能夠持之以恆、沒有毅力。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>んふふふ、これ買っちゃった</string>
+							<key>detail</key>
+							<string>哇哈哈我買了這個</string>
+							<key>audio</key>
+							<string>mikka2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>うわ、最近流行ってるダイエット器具じゃん！</string>
+							<key>detail</key>
+							<string>哇～這是現在很夯的減肥器材耶！</string>
+							<key>audio</key>
+							<string>mikka3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>三日坊主にならないでね</string>
+							<key>detail</key>
+							<string>不要只有三分鐘熱度唷！</string>
+							<key>audio</key>
+							<string>mikka4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>二度あることは三度ある</string>
+					<key>detail</key>
+					<string>一而再再而三</string>
+					<key>audio</key>
+					<string>nidoarukoto.mp3</string>
+					<key>image</key>
+					<string>red2</string>
+					<key>explanation</key>
+					<string>這句是諺語。同樣事情再度發生並且是反覆發生。為了防止不好事情再度發生而要注意的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ウワァー！またダイエット失敗したの！？</string>
+							<key>detail</key>
+							<string>唉，減肥又失敗了</string>
+							<key>audio</key>
+							<string>nidoarukoto2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>うん、何でかなー</string>
+							<key>detail</key>
+							<string>嗯，不知為何</string>
+							<key>audio</key>
+							<string>nidoarukoto3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>二度あることは三度あるよ</string>
+							<key>detail</key>
+							<string>一而再再而三耶</string>
+							<key>audio</key>
+							<string>nidoarukoto4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>110</integer>
+		<key>title</key>
+		<string>向對方傳達自己心意時</string>
+		<key>image</key>
+		<string>lesson6</string>
+		<key>phrases</key>
+		<dict>
+			<key>title</key>
+			<string>ok</string>
+			<key>array</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>私からは、言いづらいなー</string>
+					<key>detail</key>
+					<string>由我來講很難開口</string>
+					<key>audio</key>
+					<string>watashikarawa.mp3</string>
+					<key>image</key>
+					<string>red1</string>
+					<key>explanation</key>
+					<string>不是很想講，難以開口的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>何回も言っても治らないので、あなたから注意して貰っても良い？</string>
+							<key>detail</key>
+							<string>我講了幾遍都沒用,你可以幫我請他注意一下嗎？</string>
+							<key>audio</key>
+							<string>watashikarawa2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>う〜ん、私からは言いづらいな〜</string>
+							<key>detail</key>
+							<string>嗯⋯要我去去講有點難開口耶</string>
+							<key>audio</key>
+							<string>watashikarawa3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>そういうの性に合わないから</string>
+					<key>detail</key>
+					<string>不適合我（的個性）</string>
+					<key>audio</key>
+					<string>soiunoshoni.mp3</string>
+					<key>image</key>
+					<string>red2</string>
+					<key>explanation</key>
+					<string>和自己個性不適合的意思</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ねー合コンいかない？</string>
+							<key>detail</key>
+							<string>ㄟ,要不要去聯誼</string>
+							<key>audio</key>
+							<string>soiunoshoni2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>いや、私はいい。そういうの性に合わないから</string>
+							<key>detail</key>
+							<string>不了,那種場合不適合我．</string>
+							<key>audio</key>
+							<string>soiunoshoni3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>言い方悪いけど</string>
+					<key>detail</key>
+					<string>講不好聽點</string>
+					<key>audio</key>
+					<string>iikatawaruikedo.mp3</string>
+					<key>image</key>
+					<string>red3</string>
+					<key>explanation</key>
+					<string>在會傷害對方心理前先說的用語</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ははっめんごめんご</string>
+							<key>detail</key>
+							<string>哈哈,拍謝拍謝</string>
+							<key>audio</key>
+							<string>iikatawaruikedo2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>言い方悪いけど、友達なくすよ。遅れたらちゃんと謝って！</string>
+							<key>detail</key>
+							<string>講難聽點,你這樣會沒朋友唷
+
+遲到了就該認真道歉！</string>
+							<key>audio</key>
+							<string>iikatawaruikedo3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>うっ、遅れてすみません</string>
+							<key>detail</key>
+							<string>嗯  ,抱歉遲到了</string>
+							<key>audio</key>
+							<string>iikatawaruikedo4.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>いいよ</string>
+					<key>detail</key>
+					<string>好喔</string>
+					<key>audio</key>
+					<string>iiyoyes.mp3</string>
+					<key>image</key>
+					<string>red4</string>
+					<key>explanation</key>
+					<string>「いいよ」同時有「肯定」與「否定」的意思。需要依照對方的語調表情以及上下文來判斷其含義．如果無法了解對方的意思可以直接說「どっちの『いいよ』？」來問到底是好還是不好。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ねーハサミ貸してちょうだい</string>
+							<key>detail</key>
+							<string>借我剪刀</string>
+							<key>audio</key>
+							<string>iiyoyes2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>うん、いいよ</string>
+							<key>detail</key>
+							<string>嗯，好喔</string>
+							<key>audio</key>
+							<string>iiyoyes3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>いいよ</string>
+					<key>detail</key>
+					<string>不好</string>
+					<key>audio</key>
+					<string>iiyono.mp3</string>
+					<key>image</key>
+					<string>red5</string>
+					<key>explanation</key>
+					<string>「いいよ」同時有「肯定」與「否定」的意思。需要依照對方的語調表情以及上下文來判斷其含義．如果無法了解對方的意思可以直接說「どっちの『いいよ』？」來問到底是好還是不好。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>みかん食べる？</string>
+							<key>detail</key>
+							<string>要吃橘子嗎？</string>
+							<key>audio</key>
+							<string>iiyono2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>いいよ！今はお腹一杯。</string>
+							<key>detail</key>
+							<string>不了，現在很飽</string>
+							<key>audio</key>
+							<string>iiyono3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>居心地いいんだもんー</string>
+					<key>detail</key>
+					<string>太舒適了嘛～</string>
+					<key>audio</key>
+					<string>igokochiii.mp3</string>
+					<key>image</key>
+					<string>red6</string>
+					<key>explanation</key>
+					<string>「居心地いい」指的是那個地方待起來很舒適的意思。除此之外，也有「この男性は、とても居心地がいい」（待在那個男生旁邊很自在）（跟那個男生相處起來很舒服）這種描述他人的用法。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>「ゆっくりして」とは言ったけど・・・人の家でくつろぎ過ぎじゃないw</string>
+							<key>detail</key>
+							<string>雖然對方跟你說：「請放輕鬆，當自己家」但在別人家你也太自在了吧！</string>
+							<key>audio</key>
+							<string>igokochiii2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>だって、とてもこのソファーが居心地いいんだもんー</string>
+							<key>detail</key>
+							<string>唉唷，那個沙發太舒適了嘛～</string>
+							<key>audio</key>
+							<string>igokochiii3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>いちいちうるさいなー</string>
+					<key>detail</key>
+					<string>很囉唆耶～</string>
+					<key>audio</key>
+					<string>ichiichi.mp3</string>
+					<key>image</key>
+					<string>red7</string>
+					<key>explanation</key>
+					<string>「いちいち」表示一個一個的意思,是否定的用語，用於表示對對方不滿的時候。例如「不要每個都問啦」「不要每件事都這麼吵啦」。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ご飯食べたらすぐ食器洗いなさい</string>
+							<key>detail</key>
+							<string>吃完飯後要馬上洗碗唷</string>
+							<key>audio</key>
+							<string>ichiichi2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>んー分かってるよ。いちいちうるさいなー</string>
+							<key>detail</key>
+							<string>恩,知道啦,（每件事都唸個不停）很囉唆耶</string>
+							<key>audio</key>
+							<string>ichiichi3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>ムカつくわ〜</string>
+					<key>detail</key>
+					<string>真不爽～</string>
+					<key>audio</key>
+					<string>mukatsuku.mp3</string>
+					<key>image</key>
+					<string>red8</string>
+					<key>explanation</key>
+					<string>跟生氣意思差不多，但程度較為輕微，朋友間半開玩笑的誇張表示生氣時也會用。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>誰？ここ汚したの？食べたままにして〜ムカつくわ〜</string>
+							<key>detail</key>
+							<string>是誰把這裡弄髒了？吃完東西也不收，看了真不爽～</string>
+							<key>audio</key>
+							<string>mukatsuku2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>わ、私じゃないよ</string>
+							<key>detail</key>
+							<string>不，不是我喲</string>
+							<key>audio</key>
+							<string>mukatsuku3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>イライラする</string>
+					<key>detail</key>
+					<string>焦躁焦慮不安</string>
+					<key>audio</key>
+					<string>iraira.mp3</string>
+					<key>image</key>
+					<string>red9</string>
+					<key>explanation</key>
+					<string>這字都用於熟人,表示煩躁焦躁不安,不爽的意思和ムカつく同意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>また、皿洗ってない人がいる。イライラするなー</string>
+							<key>detail</key>
+							<string>又有人沒洗碗了,真讓人焦躁</string>
+							<key>audio</key>
+							<string>iraira2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>すいません。私です。今すぐ洗います</string>
+							<key>detail</key>
+							<string>對不起,是我,現在馬上洗</string>
+							<key>audio</key>
+							<string>iraira3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>上々だよ</string>
+					<key>detail</key>
+					<string>超讚</string>
+					<key>audio</key>
+					<string>jojo.mp3</string>
+					<key>image</key>
+					<string>red10</string>
+					<key>explanation</key>
+					<string>比好還好,有很棒很完美,沒有缺點的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>どう新しい車は？</string>
+							<key>detail</key>
+							<string>新車如何</string>
+							<key>audio</key>
+							<string>jojo2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>うん、上々だよ</string>
+							<key>detail</key>
+							<string>嗯！超讚的！</string>
+							<key>audio</key>
+							<string>jojo3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>張り切って行こう</string>
+					<key>detail</key>
+					<string>幹勁十足地去（做）吧</string>
+					<key>audio</key>
+					<string>harikite.mp3</string>
+					<key>image</key>
+					<string>red11</string>
+					<key>explanation</key>
+					<string>跟「頑張る（我會加油）」意思很接近，但是「頑張る」是會努力去做的意思，而「張り切る」則是鼓足氣勢、幹勁十足的去做的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>おはよう〜今日も１日張り切って行こうー</string>
+							<key>detail</key>
+							<string>早安，今天也要幹勁十足唷</string>
+							<key>audio</key>
+							<string>harikite2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>朝から元気だなー君は！</string>
+							<key>detail</key>
+							<string>你還真有幹勁</string>
+							<key>audio</key>
+							<string>harikite3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>頭にくる</string>
+					<key>detail</key>
+					<string>生氣</string>
+					<key>audio</key>
+					<string>atamani.mp3</string>
+					<key>image</key>
+					<string>red12</string>
+					<key>explanation</key>
+					<string>表示怒氣沖上腦袋的意思,相反的,要冷靜時可以使用頭を冷やす這字表示有點像中文的讓腦袋冷靜的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>頭にくるーーー! なんで私だけ、怒られる訳！</string>
+							<key>detail</key>
+							<string>生氣耶,為何只有我被罵</string>
+							<key>audio</key>
+							<string>atamani2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>まぁまぁ落ち着いて</string>
+							<key>detail</key>
+							<string>唉唷,冷靜點啦</string>
+							<key>audio</key>
+							<string>atamani3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>初めて知った</string>
+					<key>detail</key>
+					<string>第一次知道</string>
+					<key>audio</key>
+					<string>hajimete.mp3</string>
+					<key>image</key>
+					<string>red13</string>
+					<key>explanation</key>
+					<string>第一次知道這件事，所以很驚訝時的用語。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>ここの温泉は混浴もあるってさ</string>
+							<key>detail</key>
+							<string>這裡的溫泉也有男女共浴唷</string>
+							<key>audio</key>
+							<string>hajimete2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>え！？そうなんだー初めて知った</string>
+							<key>detail</key>
+							<string>誒，第一次知道</string>
+							<key>audio</key>
+							<string>hajimete3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>ガラスでできている</string>
+					<key>detail</key>
+					<string>這是用玻璃做的</string>
+					<key>audio</key>
+					<string>garasude.mp3</string>
+					<key>image</key>
+					<string>red14</string>
+					<key>explanation</key>
+					<string>這字是和英文的be made of 意思一樣 用....製作而成的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>わーこのコップ　凄い綺麗ー</string>
+							<key>detail</key>
+							<string>哇,這杯子好漂亮</string>
+							<key>audio</key>
+							<string>garasude2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>これは、特殊なガラスでできているんだよ</string>
+							<key>detail</key>
+							<string>這是用特別的玻璃做成的唷</string>
+							<key>audio</key>
+							<string>garasude3.mp3</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>一から作った</string>
+					<key>detail</key>
+					<string>從頭開始做的</string>
+					<key>audio</key>
+					<string>ichikara00.mp3</string>
+					<key>image</key>
+					<string>red15</string>
+					<key>explanation</key>
+					<string>表示從最初開始,從無到有的意思。</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>へぇ〜この机かっこいいね〜</string>
+							<key>detail</key>
+							<string>哇這桌子好酷耶</string>
+							<key>audio</key>
+							<string>ichikara2.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>そう？　ありがとう〜。　実は、これ一から作ったんだ〜</string>
+							<key>detail</key>
+							<string>真的嗎?!謝謝,其實這是從頭做起的唷</string>
+							<key>audio</key>
+							<string>ichikara3.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -2140,7 +3139,7 @@
 		<key>title</key>
 		<string>身體和健康</string>
 		<key>image</key>
-		<string>icon6</string>
+		<string>lesson7</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -2159,7 +3158,7 @@
 					<key>image</key>
 					<string>yellow1</string>
 					<key>explanation</key>
-					<string>自己或對方身體不舒服或狀況不佳時可以使用</string>
+					<string>自己或對方身體不舒服或狀況不佳時可以使用。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2206,7 +3205,7 @@
 					<key>image</key>
 					<string>yellow2</string>
 					<key>explanation</key>
-					<string>這字是從增加這個字衍伸出來的。比較性的用語，比之前的好的意思</string>
+					<string>這字是從增加這個字衍伸出來的。比較性的用語，比之前的好的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2215,7 +3214,7 @@
 							<key>title</key>
 							<string>体調大丈夫？</string>
 							<key>detail</key>
-							<string>還好嗎？</string>
+							<string>身體還好嗎？</string>
 							<key>audio</key>
 							<string>kinoyoriha2.mp3</string>
 						</dict>
@@ -2223,7 +3222,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うん、昨日よりはマシになったよ。</string>
+							<string>うん、昨日よりはマシになったよ</string>
 							<key>detail</key>
 							<string>嗯！比昨天好多了</string>
 							<key>audio</key>
@@ -2243,7 +3242,7 @@
 					<key>image</key>
 					<string>yellow3</string>
 					<key>explanation</key>
-					<string>通常用於對方生病時鼓勵對方的話要對方保重的意思，醫生常對病人說唷</string>
+					<string>「請好好保重身體」的簡略說法，對方生病時鼓勵對方的話，也有「早日康復」的意思，醫生常對病人說。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2260,21 +3259,21 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>ゴホッゴホッ。大丈夫。横になったら良くなる思う。</string>
+							<string>ゴホッゴホッ。大丈夫。横になったら良くなる思う</string>
 							<key>detail</key>
 							<string>酷酷掃，沒關係的，躺躺休息就會好了</string>
 							<key>audio</key>
-							<string>odaijini4.mp3</string>
+							<string>odaijini3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>そうか。お大事にね。</string>
+							<string>そうか。お大事にね</string>
 							<key>detail</key>
 							<string>是喔！請保重</string>
 							<key>audio</key>
-							<string>odaijini.mp3</string>
+							<string>odaijini4.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -2290,16 +3289,16 @@
 					<key>image</key>
 					<string>yellow4</string>
 					<key>explanation</key>
-					<string>乾枯是形容花草沒水份，而用於聲音只聲音沙啞燒聲的意思</string>
+					<string>「枯れる」是形容花草沒水份，而用於聲音則是指聲音沙啞燒聲的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>昨日のカラオケ楽しかったねー。</string>
+							<string>昨日のカラオケ楽しかったねー</string>
 							<key>detail</key>
-							<string>昨天唱歌好好玩</string>
+							<string>昨天唱歌好開心唷～</string>
 							<key>audio</key>
 							<string>koegakarechata2.mp3</string>
 						</dict>
@@ -2307,7 +3306,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うん、盛り上がってたねーでも、歌い過ぎて声枯れちゃった(枯れた声)</string>
+							<string>うん、盛り上がってたねーでも、歌い過ぎて声枯れちゃった</string>
 							<key>detail</key>
 							<string>對呀,好嗨喲～但是唱太多了,都燒聲了</string>
 							<key>audio</key>
@@ -2337,7 +3336,7 @@
 					<key>image</key>
 					<string>yellow5</string>
 					<key>explanation</key>
-					<string>乾枯是形容花草沒水份，而用於聲音只聲音沙啞燒聲的意思</string>
+					<string>根據不同病而有不同使用方法。例如感冒用引く。發燒用出る。 流感用かかる。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2348,7 +3347,7 @@
 							<key>detail</key>
 							<string>哈啾！</string>
 							<key>audio</key>
-							<string>kazewohi.mp3</string>
+							<string>kazewohi2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -2358,427 +3357,17 @@
 							<key>detail</key>
 							<string>怎了？感冒?</string>
 							<key>audio</key>
-							<string>kazewohi2.mp3</string>
+							<string>kazewohi3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>うん、風邪引いたみたい。</string>
+							<string>うん、風邪引いたみたい</string>
 							<key>detail</key>
 							<string>嗯，好像感冒了</string>
 							<key>audio</key>
-							<string>kazewohi3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-			</array>
-		</dict>
-	</dict>
-	<dict>
-		<key>id</key>
-		<integer>110</integer>
-		<key>title</key>
-		<string>向對方傳達自己心意時</string>
-		<key>image</key>
-		<string>icon7</string>
-		<key>phrases</key>
-		<dict>
-			<key>title</key>
-			<string>ok</string>
-			<key>array</key>
-			<array>
-				<dict>
-					<key>id</key>
-					<integer>0</integer>
-					<key>title</key>
-					<string>ガラスでできている</string>
-					<key>detail</key>
-					<string>這是用玻璃做的</string>
-					<key>audio</key>
-					<string>garasude.mp3</string>
-					<key>image</key>
-					<string>red1</string>
-					<key>explanation</key>
-					<string>&quot;這字是和英文的be made of 意思一樣
-
-用....製作而成的意思&quot;</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>わーこのコップ　凄い綺麗ー</string>
-							<key>detail</key>
-							<string>哇,這杯子好漂亮</string>
-							<key>audio</key>
-							<string>garasude2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>これは、特殊なガラスでできているんだよ</string>
-							<key>detail</key>
-							<string>這是用特別的玻璃做成的唷</string>
-							<key>audio</key>
-							<string>garasude3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>2</integer>
-					<key>title</key>
-					<string>一から作った</string>
-					<key>detail</key>
-					<string>從頭做的</string>
-					<key>audio</key>
-					<string>ichikara.mp3</string>
-					<key>image</key>
-					<string>red2</string>
-					<key>explanation</key>
-					<string>自己覺得的錯覺</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>へぇ〜この机かっこいいね〜</string>
-							<key>detail</key>
-							<string>哇這桌子好酷耶</string>
-							<key>audio</key>
-							<string>ichikara2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>そう？　ありがとう〜。　実は、これ一から作ったんだ〜</string>
-							<key>detail</key>
-							<string>真的嗎?!謝謝,其實這是從頭做起的唷</string>
-							<key>audio</key>
-							<string>ichikara3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>私からは、言いづらいなー</string>
-					<key>detail</key>
-					<string>由我來講很難開口</string>
-					<key>audio</key>
-					<string>watashikarawa.mp3</string>
-					<key>image</key>
-					<string>red3</string>
-					<key>explanation</key>
-					<string>直接翻譯的話是只講出來很痛苦的意思。不是很想講，難以開口的意思</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>何回も言っても治らないので、あなたから注意して貰っても良い？</string>
-							<key>detail</key>
-							<string>講了幾遍都沒改進,你可以幫我跟他講一下嗎？</string>
-							<key>audio</key>
-							<string>watashikarawa2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>う〜ん、私からは言いづらいな〜</string>
-							<key>detail</key>
-							<string>嗯⋯要我去去講有點難開口耶</string>
-							<key>audio</key>
-							<string>watashikarawa3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>言っとこうかなと思って</string>
-					<key>detail</key>
-					<string>我想先跟你說一聲</string>
-					<key>audio</key>
-					<string>soiunoshoni.mp3</string>
-					<key>image</key>
-					<string>red4</string>
-					<key>explanation</key>
-					<string>跟對方再確認或以防對方忘記而再次提醒時可以使用</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>あれ！？　３時に先生と待ち合わせだよね？</string>
-							<key>detail</key>
-							<string>喂!3點要跟老師見面對吧</string>
-							<key>audio</key>
-							<string>soiunoshoni.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>うわ！　やばっ！　忘れてた。教えてくれてありがとう。</string>
-							<key>detail</key>
-							<string>阿是喔,忘記了耶,謝謝你告訴我</string>
-							<key>audio</key>
-							<string>soiunoshoni.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>2</integer>
-							<key>title</key>
-							<string>良かった。念の為、言っとこうかなと思ったからさ。</string>
-							<key>detail</key>
-							<string>太好了,以防萬一想說跟你講一聲 </string>
-							<key>audio</key>
-							<string>soiunoshoni.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>そういうの性に合わないから</string>
-					<key>detail</key>
-					<string>個性不合</string>
-					<key>audio</key>
-					<string>soiunoshoni.mp3</string>
-					<key>image</key>
-					<string>red5</string>
-					<key>explanation</key>
-					<string>和自己個性不適合的意思</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>ねー合コンいかない？</string>
-							<key>detail</key>
-							<string>ㄟ,要不要去聯誼</string>
-							<key>audio</key>
-							<string>soiunoshoni2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>いや、私はいい。そういうの性に合わないから。</string>
-							<key>detail</key>
-							<string>不了,我不適合</string>
-							<key>audio</key>
-							<string>soiunoshoni3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>言い方悪いけど</string>
-					<key>detail</key>
-					<string>講不好聽點</string>
-					<key>audio</key>
-					<string>iikatawaruikedo.mp3</string>
-					<key>image</key>
-					<string>red6</string>
-					<key>explanation</key>
-					<string>在會傷害對方心理前先說的用語</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>ははっめんごめんご。</string>
-							<key>detail</key>
-							<string>哈哈,拍謝拍謝</string>
-							<key>audio</key>
-							<string>iikatawaruikedo2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>言い方悪いけど、友達なくすよ。遅れたらちゃんと謝って！</string>
-							<key>detail</key>
-							<string>&quot;講難聽點,你這樣會沒朋友唷
-
-遲到了就認真道歉&quot;</string>
-							<key>audio</key>
-							<string>iikatawaruikedo3.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>2</integer>
-							<key>title</key>
-							<string>うっ、遅れてすみません。</string>
-							<key>detail</key>
-							<string>嗯  ,抱歉遲到了</string>
-							<key>audio</key>
-							<string>iikatawaruikedo4.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>いいよ（イエス編）</string>
-					<key>detail</key>
-					<string>好喔</string>
-					<key>audio</key>
-					<string>iiyoyes.mp3</string>
-					<key>image</key>
-					<string>red7</string>
-					<key>explanation</key>
-					<string></string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>ねーハサミ貸してちょうだい</string>
-							<key>detail</key>
-							<string>借我剪刀</string>
-							<key>audio</key>
-							<string>iiyoyes2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>うん、いいよ</string>
-							<key>detail</key>
-							<string>嗯，好喔</string>
-							<key>audio</key>
-							<string>iiyoyes3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>いいよ（NO編）</string>
-					<key>detail</key>
-					<string>不好</string>
-					<key>audio</key>
-					<string>iiyono.mp3</string>
-					<key>image</key>
-					<string>red8</string>
-					<key>explanation</key>
-					<string></string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>みかん食べる？</string>
-							<key>detail</key>
-							<string>要吃橘子嗎？</string>
-							<key>audio</key>
-							<string>iiyono2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>いいよ！今はお腹一杯。</string>
-							<key>detail</key>
-							<string>不了，現在吃不下</string>
-							<key>audio</key>
-							<string>iiyono3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>居心地いいんだもんー</string>
-					<key>detail</key>
-					<string>很舒適，愜意</string>
-					<key>audio</key>
-					<string>igokochiii.mp3</string>
-					<key>image</key>
-					<string>red9</string>
-					<key>explanation</key>
-					<string></string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>「ゆっくりして」とは言ったけど・・・人の家でくつろぎ過ぎじゃないw</string>
-							<key>detail</key>
-							<string>雖被說不要拘束當自己家，但你也太自在了吧！</string>
-							<key>audio</key>
-							<string>igokochiii2.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>だって、とてもこのソファーが居心地いいんだもんー</string>
-							<key>detail</key>
-							<string>唉唷，那個沙發太舒適了咩</string>
-							<key>audio</key>
-							<string>igokochiii3.mp3</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>3</integer>
-					<key>title</key>
-					<string>あの女優の様になりたい</string>
-					<key>detail</key>
-					<string></string>
-					<key>audio</key>
-					<string>otsukare.mp3</string>
-					<key>image</key>
-					<string>red10</string>
-					<key>explanation</key>
-					<string></string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>私もあの女優の様になりたい</string>
-							<key>detail</key>
-							<string>雖被說不要拘束當自己家，但你也太自在了吧！</string>
-							<key>audio</key>
-							<string>otsukare.mp3</string>
-						</dict>
-						<dict>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>あなたならきっとなれるよ</string>
-							<key>detail</key>
-							<string></string>
-							<key>audio</key>
-							<string>odaijini.mp3</string>
+							<string>kazewohi4.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -2791,7 +3380,7 @@
 		<key>title</key>
 		<string>工作常用語</string>
 		<key>image</key>
-		<string>icon8</string>
+		<string>lesson8</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -2810,14 +3399,14 @@
 					<key>image</key>
 					<string>green1</string>
 					<key>explanation</key>
-					<string>這句話有2種意思。一個是用在對對方的工作辛苦表示感謝時的用語。另一個是單純的打招乎用語。跟早安，晚安，你甲罷唯一樣的感覺</string>
+					<string>這句話有2種意思。一個是用在對對方的工作辛苦表示感謝時的用語。另一個是單純的打招乎用語。跟早安，晚安，你甲罷唯一樣的感覺。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>仕事終わりました。先に上がります。</string>
+							<string>仕事終わりました。先に上がります</string>
 							<key>detail</key>
 							<string>工作結束了，先下班咧。</string>
 							<key>audio</key>
@@ -2837,7 +3426,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>お疲れ様です。</string>
+							<string>お疲れ様です</string>
 							<key>detail</key>
 							<string>您辛苦了</string>
 							<key>audio</key>
@@ -2857,14 +3446,14 @@
 					<key>image</key>
 					<string>green2</string>
 					<key>explanation</key>
-					<string>在日本職場上,不論是早上下午晚上遇到同事的招呼語。有許多說法,ㄧ種是抱著感謝對方從早到晚的工作的心情打招呼</string>
+					<string>在日本職場上,不論是早上下午晚上遇到同事的招呼語。有許多說法,ㄧ種是抱著感謝對方從早到晚的工作的心情打招呼。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>おはようございます。</string>
+							<string>おはようございます</string>
 							<key>detail</key>
 							<string>早安</string>
 							<key>audio</key>
@@ -2876,7 +3465,7 @@
 							<key>title</key>
 							<string>おはよう！今日も１日張り切って行こう！！</string>
 							<key>detail</key>
-							<string>真的嗎?!謝謝,其實這是從頭做起的唷</string>
+							<string>早安！今天也一起加油吧！</string>
 							<key>audio</key>
 							<string>ohayo3.mp3</string>
 						</dict>
@@ -2894,7 +3483,7 @@
 					<key>image</key>
 					<string>green3</string>
 					<key>explanation</key>
-					<string>直接翻譯的話是只講出來很痛苦的意思。不是很想講，難以開口的意思</string>
+					<string>常用於下班時的用語，表示「接下來的工作就麻煩你囉！</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2911,7 +3500,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>了解です。お疲れ様です。</string>
+							<string>了解です。お疲れ様です</string>
 							<key>detail</key>
 							<string>了解了，您辛苦了</string>
 							<key>audio</key>
@@ -2923,7 +3512,7 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>ひと段落（誤読）</string>
+					<string>ひと段落</string>
 					<key>detail</key>
 					<string>告ㄧ段落</string>
 					<key>audio</key>
@@ -2931,14 +3520,14 @@
 					<key>image</key>
 					<string>green4</string>
 					<key>explanation</key>
-					<string>日文上正確說法是いち段落，但口語上常常被說成ひと段落，而這跟中文的告一段落意思相近</string>
+					<string>日文上正確說法是いち段落，但口語上常常被說成ひと段落，而這跟中文的告一段落意思相近。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>あなた、もうご飯出来たよ。食べよう。</string>
+							<string>あなた、もうご飯出来たよ。食べよう</string>
 							<key>detail</key>
 							<string>飯煮好了，來吃吧。</string>
 							<key>audio</key>
@@ -2948,7 +3537,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>分かった。もうすぐひと段落するから、終わったら来るよ。</string>
+							<string>分かった。もうすぐひと段落するから、終わったら来るよ</string>
 							<key>detail</key>
 							<string>好，快告一段落了，等等結束就來</string>
 							<key>audio</key>
@@ -2978,7 +3567,7 @@
 					<key>image</key>
 					<string>green5</string>
 					<key>explanation</key>
-					<string>這詞是表示賭上性命做某事,拚老命的意思,用於跟對方說自己會努力工作的意思</string>
+					<string>這詞是表示賭上性命做某事,拚老命的意思,表示自己很認真、會全力以赴的心情。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -2987,25 +3576,25 @@
 							<key>title</key>
 							<string>お！新しく入ったの？</string>
 							<key>detail</key>
-							<string>喔,新人呀</string>
+							<string>喔！新來的嗎？</string>
 							<key>audio</key>
-							<string>ishokenmei2.mp3</string>
+							<string>ishokenmei4.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>はい、今日から働く事になりました。一生懸命頑張ります。よろしくお願いします。</string>
+							<string>はい、今日から働く事になりました。一生懸命頑張ります。よろしくお願いします</string>
 							<key>detail</key>
-							<string>是的,今天開始工作,會認真努力工作的,請多多指教</string>
+							<string>是的,我從今天開始上班,會拼命努力工作的。請多多指教</string>
 							<key>audio</key>
-							<string>ishokenmei3.mp3</string>
+							<string>ishokenmei2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>はい、よろしくね。</string>
+							<string>はい、よろしくね</string>
 							<key>detail</key>
 							<string>好的,請多指教唷</string>
 							<key>audio</key>
@@ -3025,7 +3614,7 @@
 					<key>image</key>
 					<string>green6</string>
 					<key>explanation</key>
-					<string></string>
+					<string>對於某事要對方不要做任何事放著就好的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3042,7 +3631,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>うん、OKーわかった。</string>
+							<string>うん、OKーわかった</string>
 							<key>detail</key>
 							<string>好喔！知道了</string>
 							<key>audio</key>
@@ -3054,36 +3643,46 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>頭の回転が早いんだろうね。</string>
+					<string>頭の回転が早いんだろうね</string>
 					<key>detail</key>
-					<string>機靈</string>
+					<string>機靈、反應很快</string>
 					<key>audio</key>
 					<string>atamanokaiten.mp3</string>
 					<key>image</key>
 					<string>green7</string>
 					<key>explanation</key>
-					<string></string>
+					<string>「頭の回転が早い」直譯是「頭腦轉速很快」就是思考很敏捷，很聰明的意思。但不是單指「智商很高」之意，而是有擅長與人交流，能夠快速理解對方說的話並且回應的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>彼仕事できるよね。この前も３連続売上トップだって！</string>
+							<string>彼仕事できるよね</string>
 							<key>detail</key>
 							<string>他工作能力很好吧，之前業績可是3連霸</string>
 							<key>audio</key>
-							<string>atamanokaiten.mp3</string>
+							<string>atamanokaiten2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>凄いね。きっと頭の回転が早いんだろうね。</string>
+							<string>この前も３連続売上トップだって！</string>
 							<key>detail</key>
 							<string>好厲害呀，應該是很機靈唷</string>
 							<key>audio</key>
-							<string>atamanokaiten.mp3</string>
+							<string>atamanokaiten3.mp3</string>
+						</dict>
+						<dict>
+							<key>id</key>
+							<integer>2</integer>
+							<key>title</key>
+							<string>凄いね。きっと頭の回転が早いんだろうね</string>
+							<key>detail</key>
+							<string>好厲害呀，一定是頭腦反應很快唷！</string>
+							<key>audio</key>
+							<string>atamanokaiten4.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -3096,7 +3695,7 @@
 		<key>title</key>
 		<string>搞笑藝人和電視常出現用語</string>
 		<key>image</key>
-		<string>icon9</string>
+		<string>lesson9</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -3115,7 +3714,7 @@
 					<key>image</key>
 					<string>yellow1</string>
 					<key>explanation</key>
-					<string>這句話的意思是指談話內容不相符合時的表現用語</string>
+					<string>這兩件事一點關係也沒有、不能相提並論的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3132,11 +3731,11 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>あ、じゃあ百万円貨して！</string>
+							<string>あ、じゃあお金貨して！</string>
 							<key>detail</key>
 							<string>是喔，那借我一百萬</string>
 							<key>audio</key>
-							<string>soretokore3.mp3</string>
+							<string>soretokore4.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -3146,7 +3745,7 @@
 							<key>detail</key>
 							<string>ㄟ！這是兩回事！</string>
 							<key>audio</key>
-							<string>soretokore4.mp3</string>
+							<string>soretokore5.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -3162,7 +3761,7 @@
 					<key>image</key>
 					<string>yellow2</string>
 					<key>explanation</key>
-					<string></string>
+					<string>寬鬆世代是指1987到2004年出生的人。受到比較不嚴厲的教育方式長大而害怕失敗，脆弱，現實主義者，理性和遵守規則的一群人。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3179,7 +3778,7 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>そうだけど、その言い方辞めて！</string>
+							<string>そうだけど、その言い方やめて！</string>
 							<key>detail</key>
 							<string>是沒錯，但可不可以不要叫我寬鬆世代</string>
 							<key>audio</key>
@@ -3189,7 +3788,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>悪い悪い。私もそうだよ。</string>
+							<string>悪い悪い。私もそうだよ</string>
 							<key>detail</key>
 							<string>抱歉，但我也是唷</string>
 							<key>audio</key>
@@ -3203,20 +3802,20 @@
 					<key>title</key>
 					<string>炎上した</string>
 					<key>detail</key>
-					<string>（在網路上）被罵翻</string>
+					<string>(在網路上)被罵翻</string>
 					<key>audio</key>
 					<string>enjosita.mp3</string>
 					<key>image</key>
 					<string>yellow3</string>
 					<key>explanation</key>
-					<string></string>
+					<string>流行語。直譯的意思是像火焰般得持續燃燒。最近衍生成在社群網站上惡意的留言像熊熊烈火般暴漲的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>知ってる？またあのお笑い芸能人のツイッターが炎上したよ。</string>
+							<string>知ってる？またあのお笑い芸能人のツイッターが炎上したよ</string>
 							<key>detail</key>
 							<string>你知道嗎？又是那個搞笑藝人的推特被網友留言罵翻了</string>
 							<key>audio</key>
@@ -3238,36 +3837,36 @@
 					<key>id</key>
 					<integer>3</integer>
 					<key>title</key>
-					<string>頭の回転が早いんだろうね。</string>
+					<string>今ひとつ盛り上がりに欠ける</string>
 					<key>detail</key>
-					<string>機靈</string>
+					<string>現在欠缺點熱情</string>
 					<key>audio</key>
-					<string>atamano.mp3</string>
+					<string>imahitotsu.mp3</string>
 					<key>image</key>
 					<string>yellow4</string>
 					<key>explanation</key>
-					<string></string>
+					<string>這句話的意思是過於期待反而變得不有趣時使用的用語，也可以說冷場的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>彼仕事できるよね。この前も３連続売上トップだって！</string>
+							<string>この前のデートどうだった？</string>
 							<key>detail</key>
-							<string>他工作能力很好吧，之前業績可是3連霸</string>
+							<string>之前的約會如何？</string>
 							<key>audio</key>
-							<string>atamano3.mp3</string>
+							<string>imahitotsu2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>凄いね。きっと頭の回転が早いんだろうね。</string>
+							<string>うーん、どうかなーなんか今ひとつ盛り上がりに欠けるんだよね</string>
 							<key>detail</key>
-							<string>好厲害呀，應該是很機靈唷</string>
+							<string>嗯....總覺得沒啥開心沒很興奮</string>
 							<key>audio</key>
-							<string>atamano4.mp3</string>
+							<string>imahitotsu3.mp3</string>
 						</dict>
 					</array>
 				</dict>
@@ -3280,7 +3879,7 @@
 		<key>title</key>
 		<string>連續劇和電影常出現用語</string>
 		<key>image</key>
-		<string>icon10</string>
+		<string>lesson10</string>
 		<key>phrases</key>
 		<dict>
 			<key>title</key>
@@ -3299,14 +3898,14 @@
 					<key>image</key>
 					<string>purple1</string>
 					<key>explanation</key>
-					<string></string>
+					<string>直接翻譯的話表示把眼睛擦亮，睜亮仔細看的意思。</string>
 					<key>chats</key>
 					<array>
 						<dict>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>目をかっぽじってよく見ろ！これが魔球サーブだ。</string>
+							<string>目をかっぽじってよく見ろ！これが魔球サーブだ</string>
 							<key>detail</key>
 							<string>擦亮你的眼睛仔細看唷！這發球是變化球</string>
 							<key>audio</key>
@@ -3316,9 +3915,9 @@
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>はははただの横回転じゃん。</string>
+							<string>ははは、ただの横回転じゃん</string>
 							<key>detail</key>
-							<string>哈哈，這只是側旋球而已</string>
+							<string>哈哈哈，這不過是側旋球而已嘛</string>
 							<key>audio</key>
 							<string>meokapo3.mp3</string>
 						</dict>
@@ -3336,7 +3935,7 @@
 					<key>image</key>
 					<string>purple2</string>
 					<key>explanation</key>
-					<string></string>
+					<string>也可以用刺入心臟來表示。可用於好的方面或壞的方面。根據前後文來選擇使用「共鳴」或「傷心」的日文來表示。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3363,7 +3962,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>うん、ストーリーがもの凄く心に刺さるの。</string>
+							<string>うん、ストーリーがもの凄く心に刺さるの</string>
 							<key>detail</key>
 							<string>嗯，故事情結非常扣人心弦</string>
 							<key>audio</key>
@@ -3379,11 +3978,11 @@
 					<key>detail</key>
 					<string>從此以後</string>
 					<key>audio</key>
-					<string>nitodayo.mp3</string>
+					<string>sorekara.mp3</string>
 					<key>image</key>
 					<string>purple3</string>
 					<key>explanation</key>
-					<string></string>
+					<string>從此以後的意思。比較古老的用語，在以前的書裡常被使用。電影或書本用於表示的是在古代的時候的故事。</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3394,17 +3993,17 @@
 							<key>detail</key>
 							<string>從此以後他就過著幸福的日子，可喜可賀</string>
 							<key>audio</key>
-							<string>nitodayo.mp3</string>
+							<string>sorekara2.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>最後に彼が幸せになって良かった。もっと別の話聞かせて。</string>
+							<string>最後に彼が幸せになって良かった。もっと別の話聞かせて</string>
 							<key>detail</key>
 							<string>最後他過得幸運真是太好了！再多說點別的故事給我聽.</string>
 							<key>audio</key>
-							<string>nitodayo.mp3</string>
+							<string>sorekara3.mp3</string>
 						</dict>
 						<dict>
 							<key>id</key>
@@ -3414,7 +4013,7 @@
 							<key>detail</key>
 							<string>好喔！如果你乖乖的，明天就講給你聽</string>
 							<key>audio</key>
-							<string>nitodayo.mp3</string>
+							<string>sorekara4.mp3</string>
 						</dict>
 					</array>
 				</dict>

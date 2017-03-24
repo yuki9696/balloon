@@ -85,13 +85,19 @@ extension SecondViewController:UITableViewDataSource,UITableViewDelegate {
         cell?.lblTitle.text = title
         cell?.lblDetail.text = detail
         cell?.imgIcon.image = UIImage.init(named: ImageName)
+        
+        //color of cells when selected
+        let selectedView = UIView()
+        selectedView.backgroundColor = UIColor.init(red: (238.0/255.0), green: (238.0/255.0), blue: (238.0/255.0), alpha: 1.0)
+        cell?.selectedBackgroundView =  selectedView
+        
         return cell!
     }
     func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
 
         
         //return "Section \(section)"
-        return "Section \(section)"
+        return "chat"
 
    }
     

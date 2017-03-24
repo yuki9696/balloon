@@ -35,6 +35,24 @@ class PlaySheetCellRight: UITableViewCell {
             self.LBLTitle.text = title
             let details = msg["detail"] as! String
             self.LBLDetail.text = details
+            
+            let paragraphStyle = NSMutableParagraphStyle()
+            
+            
+            //line height size
+            paragraphStyle.lineSpacing = 5
+            
+            
+            // For title
+            let attrTitleString = NSMutableAttributedString(string: title)
+            attrTitleString.addAttribute(NSParagraphStyleAttributeName, value:paragraphStyle, range:NSMakeRange(0, attrTitleString.length))
+            LBLTitle.attributedText = attrTitleString
+            
+            // For detail
+            let attrDetailsString = NSMutableAttributedString(string: details)
+            attrDetailsString.addAttribute(NSParagraphStyleAttributeName, value:paragraphStyle, range:NSMakeRange(0, attrDetailsString.length))
+            LBLDetail.attributedText = attrDetailsString
+            
         }
     }
     

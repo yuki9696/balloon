@@ -25,8 +25,21 @@
                                 <constraint firstAttribute="width" constant="44" id="DI9-SQ-eWm"/>
                             </constraints>
                         </imageView>
-                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PJ4-i8-iYj">
-                            <rect key="frame" x="68" y="18" width="288" height="21"/>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="psO-Nr-LFd">
+                            <rect key="frame" x="68" y="46" width="274" height="18"/>
+                            <fontDescription key="fontDescription" name="HiraginoSans-W3" family="Hiragino Sans" pointSize="15"/>
+                            <color key="textColor" red="0.37254901960784315" green="0.37254901960784315" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="speaker2" translatesAutoresizingMaskIntoConstraints="NO" id="nKS-74-gkq">
+                            <rect key="frame" x="345" y="48" width="16" height="16"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="16" id="fA6-3s-gOn"/>
+                                <constraint firstAttribute="height" constant="16" id="hJ2-DO-CB9"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PJ4-i8-iYj">
+                            <rect key="frame" x="68" y="19" width="307" height="21"/>
                             <attributedString key="attributedText">
                                 <fragment content="Label">
                                     <attributes>
@@ -38,32 +51,20 @@
                             </attributedString>
                             <nil key="highlightedColor"/>
                         </label>
-                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="psO-Nr-LFd">
-                            <rect key="frame" x="68" y="46" width="267" height="18"/>
-                            <fontDescription key="fontDescription" name="HiraginoSans-W3" family="Hiragino Sans" pointSize="15"/>
-                            <color key="textColor" red="0.37254901960784315" green="0.37254901960784315" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                            <nil key="highlightedColor"/>
-                        </label>
-                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="speaker2" translatesAutoresizingMaskIntoConstraints="NO" id="nKS-74-gkq">
-                            <rect key="frame" x="336" y="50" width="16" height="16"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="16" id="fA6-3s-gOn"/>
-                                <constraint firstAttribute="height" constant="16" id="hJ2-DO-CB9"/>
-                            </constraints>
-                        </imageView>
                     </subviews>
                     <constraints>
                         <constraint firstItem="UiC-DE-l6L" firstAttribute="leading" secondItem="oEH-6U-brO" secondAttribute="leading" constant="10" id="8on-9A-nkK"/>
-                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="leading" secondItem="UiC-DE-l6L" secondAttribute="trailing" constant="14" id="Ma5-aD-Gr0"/>
-                        <constraint firstAttribute="bottom" secondItem="nKS-74-gkq" secondAttribute="bottom" constant="13" id="Nps-b6-rUk"/>
-                        <constraint firstItem="psO-Nr-LFd" firstAttribute="leading" secondItem="PJ4-i8-iYj" secondAttribute="leading" id="UJl-u6-0Oy"/>
-                        <constraint firstAttribute="trailing" secondItem="PJ4-i8-iYj" secondAttribute="trailing" constant="19" id="Yn5-HO-rpz"/>
-                        <constraint firstItem="psO-Nr-LFd" firstAttribute="top" secondItem="PJ4-i8-iYj" secondAttribute="bottom" constant="7" id="f4Y-YJ-bds"/>
+                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="leading" secondItem="psO-Nr-LFd" secondAttribute="leading" id="JeS-sp-k4j"/>
+                        <constraint firstAttribute="bottom" secondItem="nKS-74-gkq" secondAttribute="bottom" constant="15" id="Nps-b6-rUk"/>
+                        <constraint firstAttribute="trailing" secondItem="PJ4-i8-iYj" secondAttribute="trailing" id="ObK-7U-c9q"/>
+                        <constraint firstItem="nKS-74-gkq" firstAttribute="top" secondItem="PJ4-i8-iYj" secondAttribute="bottom" constant="8" symbolic="YES" id="RZa-Ih-Nk7"/>
+                        <constraint firstItem="psO-Nr-LFd" firstAttribute="top" secondItem="PJ4-i8-iYj" secondAttribute="bottom" constant="6" id="U9Y-j3-8Cd"/>
+                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="top" secondItem="oEH-6U-brO" secondAttribute="top" constant="19" id="Zcx-8x-9l9"/>
+                        <constraint firstItem="psO-Nr-LFd" firstAttribute="leading" secondItem="UiC-DE-l6L" secondAttribute="trailing" constant="14" id="ddS-uH-KxS"/>
                         <constraint firstAttribute="bottom" secondItem="psO-Nr-LFd" secondAttribute="bottom" constant="15" id="ibf-XL-0A9"/>
-                        <constraint firstItem="PJ4-i8-iYj" firstAttribute="top" secondItem="UiC-DE-l6L" secondAttribute="top" constant="2" id="jTd-q0-YRa"/>
-                        <constraint firstAttribute="trailing" secondItem="nKS-74-gkq" secondAttribute="trailing" constant="23" id="ogY-JD-lez"/>
+                        <constraint firstAttribute="trailing" secondItem="nKS-74-gkq" secondAttribute="trailing" constant="14" id="ogY-JD-lez"/>
                         <constraint firstItem="UiC-DE-l6L" firstAttribute="top" secondItem="oEH-6U-brO" secondAttribute="top" constant="16" id="vnv-iB-a3N"/>
-                        <constraint firstItem="nKS-74-gkq" firstAttribute="leading" secondItem="psO-Nr-LFd" secondAttribute="trailing" constant="1" id="xdg-dC-JVe"/>
+                        <constraint firstItem="nKS-74-gkq" firstAttribute="leading" secondItem="psO-Nr-LFd" secondAttribute="trailing" constant="3" id="xdg-dC-JVe"/>
                     </constraints>
                 </view>
             </subviews>
@@ -82,7 +83,7 @@
                 <outlet property="LBLTitle" destination="PJ4-i8-iYj" id="yIn-m8-3jM"/>
                 <outlet property="bubbleView" destination="oEH-6U-brO" id="PzG-Jw-eku"/>
             </connections>
-            <point key="canvasLocation" x="23" y="-359"/>
+            <point key="canvasLocation" x="22.5" y="-359.5"/>
         </view>
     </objects>
     <resources>

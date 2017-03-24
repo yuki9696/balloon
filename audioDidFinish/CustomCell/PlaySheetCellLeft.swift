@@ -20,7 +20,8 @@ class PlaySheetCellLeft: UITableViewCell {
     
     @IBOutlet var IMGView:UIImageView!
     
-    var animate = false {
+    
+        var animate = false {
         didSet{
             if self.animate == true {
                 self.IMGView.startAnimating()
@@ -32,7 +33,8 @@ class PlaySheetCellLeft: UITableViewCell {
         }
         
     }
-
+    
+    
 
     var message:[String:Any]? {
         didSet{
@@ -41,6 +43,27 @@ class PlaySheetCellLeft: UITableViewCell {
             self.LBLTitle.text = title
             let details = msg["detail"] as! String
             self.LBLDetail.text = details
+            
+            
+            let paragraphStyle = NSMutableParagraphStyle()
+
+            
+            //line height size
+            paragraphStyle.lineSpacing = 5
+            
+            
+            // For title
+            let attrTitleString = NSMutableAttributedString(string: title)
+            attrTitleString.addAttribute(NSParagraphStyleAttributeName, value:paragraphStyle, range:NSMakeRange(0, attrTitleString.length))
+            LBLTitle.attributedText = attrTitleString
+            
+            // For detail
+            let attrDetailsString = NSMutableAttributedString(string: details)
+            attrDetailsString.addAttribute(NSParagraphStyleAttributeName, value:paragraphStyle, range:NSMakeRange(0, attrDetailsString.length))
+            LBLDetail.attributedText = attrDetailsString
+            
+
+
         }
     }
     
@@ -66,6 +89,8 @@ class PlaySheetCellLeft: UITableViewCell {
         self.LBLTitle.layoutIfNeeded()
        // self.IMGView.animationImages = [#imageLiteral(resourceName: "speaker2")]
         //self.IMGView.animationDuration = 0.25
+        
+
     }
 
 

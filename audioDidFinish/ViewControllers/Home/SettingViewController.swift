@@ -20,13 +20,17 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
         self.tableView.delegate = self
         self.tableView.dataSource = self
         
-        self.settingsList.append("アプリを友達にシェア 😙")
-        self.settingsList.append("新しいフレーズをリクエスト ✉️")
+        self.settingsList.append("向朋友分享 APP")
+        self.settingsList.append("要求新的用語")
+        self.settingsList.append("傳送意見回饋")
+
         self.tableView.reloadData()
         
         //delete separator of UITableView
         tableView.tableFooterView = UIView(frame: .zero)
     }
+    
+
     
     @IBOutlet weak var tableView: UITableView!
     
@@ -43,6 +47,11 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
         
         cell.textLabel?.text = settingItem
         
+        //color of cells when selected
+        let selectedView = UIView()
+        selectedView.backgroundColor = UIColor.init(red: (238.0/255.0), green: (238.0/255.0), blue: (238.0/255.0), alpha: 1.0)
+        cell.selectedBackgroundView =  selectedView
+        
         return cell
     }
     
@@ -50,48 +59,76 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
         return self.settingsList.count
     }
     
-    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
-        tableView.deselectRow(at: indexPath, animated: true)
-        
-        if indexPath.row == 0 {
-            let message = "Hey download my app [LINK]"
-            let shareView = UIActivityViewController(activityItems: [message], applicationActivities: nil)
-            self.present(shareView, animated: true, completion: nil)
-            
-        } else if indexPath.row == 1 {
+        private func sendMail(to recipient: String, subject: String) {
             let mailCompose = MFMailComposeViewController()
-            
             mailCompose.mailComposeDelegate = self
-            
-            mailCompose.setToRecipients(["uliktodrinksodowe@gmail.com"])
-            
-            mailCompose.setSubject("feedback")
-            
+            mailCompose.setToRecipients([recipient])
+            mailCompose.setSubject(subject)
             mailCompose.setMessageBody("text", isHTML: false)
             
-            if MFMailComposeViewController.canSendMail()
-                
-            {
-                
+            if MFMailComposeViewController.canSendMail() {
                 self.present(mailCompose, animated: true, completion: nil)
-                
             }
+        }
+        
+        func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+            
+            tableView.deselectRow(at: indexPath, animated: true)
+
+            
+            switch indexPath.row {
+            case 0:
                 
-            else{
+                let message = "Balloonで日本語を勉強しよう！"
+                let shareView = UIActivityViewController(activityItems: [message], applicationActivities: nil)
+                self.present(shareView, animated: true, completion: nil);break;
+            case 1:
                 
-                print("error...!")
+                let mailCompose = MFMailComposeViewController()
+                
+                mailCompose.mailComposeDelegate = self
+                
+                mailCompose.setToRecipients(["balloonappfeedback@gmail.com"])
+                
+                mailCompose.setSubject("傳送意見回饋")
+                
+                mailCompose.setMessageBody("", isHTML: false)
+                
+                if MFMailComposeViewController.canSendMail()
+                    
+                {
+                    
+                    self.present(mailCompose, animated: true, completion: nil)
+                    
+                };break;
+            case 2:
+                
+                let mailCompose = MFMailComposeViewController()
+                
+                mailCompose.mailComposeDelegate = self
+                
+                mailCompose.setToRecipients(["balloonappfeedback@gmail.com"])
+                
+                mailCompose.setSubject("要求新的用語 👶")
+                
+                mailCompose.setMessageBody("", isHTML: false)
+                
+                if MFMailComposeViewController.canSendMail()
+                    
+                {
+                    
+                    self.present(mailCompose, animated: true, completion: nil)
+                    
+                };break;
+            default: break
                 
             }
         }
-    }
-    
-    
-    func mailComposeController(_ controller: MFMailComposeViewController, didFinishWith result: MFMailComposeResult, error: Error?) {
+        func mailComposeController(_ controller: MFMailComposeViewController, didFinishWith result: MFMailComposeResult, error: Error?) {
+            
+            controller.dismiss(animated: true, completion: nil)
+            
+        }
         
-        controller.dismiss(animated: true, completion: nil)
-        
-    }
-    
-    
 }

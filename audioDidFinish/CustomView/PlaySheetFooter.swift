@@ -20,5 +20,16 @@ class PlaySheetFooter: UITableViewHeaderFooterView {
         let view = UIView()
         view.backgroundColor = UIColor.white
         self.backgroundView = view
+        
+        let paragraphStyle = NSMutableParagraphStyle()
+        
+        
+        paragraphStyle.lineSpacing = 8
+        
+        //error code
+        let attrString = NSMutableAttributedString(string: "lblContent")
+        
+        attrString.addAttribute(NSParagraphStyleAttributeName, value:paragraphStyle, range:NSMakeRange(0, attrString.length))
+        lblContent.attributedText = attrString
     }
 }
