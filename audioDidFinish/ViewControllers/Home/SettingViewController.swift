@@ -30,8 +30,6 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
         tableView.tableFooterView = UIView(frame: .zero)
     }
     
-
-    
     @IBOutlet weak var tableView: UITableView!
     
     
@@ -80,7 +78,7 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
             switch indexPath.row {
             case 0:
                 
-                let message = "Balloonで日本語を勉強しよう！"
+                let message = "Baloonっていうアプリいいよ！"
                 let shareView = UIActivityViewController(activityItems: [message], applicationActivities: nil)
                 self.present(shareView, animated: true, completion: nil);break;
             case 1:

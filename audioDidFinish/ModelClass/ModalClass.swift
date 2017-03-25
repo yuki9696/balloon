@@ -25,6 +25,7 @@ class PLIST {
         }
     }
     
+
     //MARK:- initializer
     fileprivate init() {
         //let bundlePath = Bundle.main.path(forResource: PLIST.name, ofType: PLIST.type)!
@@ -207,7 +208,12 @@ extension AudioPlayer {
             let alert = UIAlertView(title: "Error!", message: error.localizedDescription, delegate: nil, cancelButtonTitle: "OK")
             alert.show()
         }
+
+        
     }
+  
+
+
     
     func next() -> Bool {
         let count = self.files.count

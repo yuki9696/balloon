@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PlaySheetViewController_" customModule="audioDidFinish" customModuleProvider="target">
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PlaySheetViewController_" customModule="balloonapp" customModuleProvider="target">
             <connections>
                 <outlet property="lblBottom" destination="IsF-30-iZ0" id="6H3-Pf-Rbm"/>
                 <outlet property="table" destination="AT6-RR-c3x" id="Fi9-56-EcI"/>
@@ -22,11 +22,11 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="AT6-RR-c3x">
-                    <rect key="frame" x="0.0" y="0.0" width="320" height="488"/>
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="537"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                 </tableView>
                 <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="オハイオ州全能、私たちは皆あなたの子供です。私たちに親切にしてください。私たちは愚かな間違いを犯しますが、あなたは愛の海です。私たちを許してください" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IsF-30-iZ0">
-                    <rect key="frame" x="10" y="527.5" width="300" height="16.5"/>
+                    <rect key="frame" x="10" y="540.5" width="300" height="16.5"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                     <nil key="highlightedColor"/>
@@ -34,8 +34,8 @@
             </subviews>
             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <constraints>
-                <constraint firstAttribute="bottom" secondItem="IsF-30-iZ0" secondAttribute="bottom" constant="24" id="18x-tp-4ci"/>
-                <constraint firstItem="IsF-30-iZ0" firstAttribute="top" secondItem="AT6-RR-c3x" secondAttribute="bottom" constant="39.5" id="5Pc-vD-jFu"/>
+                <constraint firstAttribute="bottom" secondItem="IsF-30-iZ0" secondAttribute="bottom" constant="11" id="18x-tp-4ci"/>
+                <constraint firstItem="IsF-30-iZ0" firstAttribute="top" secondItem="AT6-RR-c3x" secondAttribute="bottom" constant="3.5" id="5Pc-vD-jFu"/>
                 <constraint firstItem="AT6-RR-c3x" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="CET-Ue-J2L"/>
                 <constraint firstItem="AT6-RR-c3x" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="IAl-1M-Zqc"/>
                 <constraint firstItem="IsF-30-iZ0" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="10" id="Ntk-Q8-Ome"/>

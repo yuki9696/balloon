@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import AVFoundation
+
 let kLeftCell = "PlaySheetCellLeft"
 let kRightCell = "PlaySheetCellRight"
 let kHeaderView = "PlaySheetHeader"
@@ -64,14 +66,7 @@ class PlaySheetViewController_: UIViewController {
         let tap = UITapGestureRecognizer(target: self, action: #selector(self.tapTable(_:)))
         self.table.addGestureRecognizer(tap)
         
-        
-        
-        
-        
-        
-        
-        
-        
+
         
         //
         let explanationtext = self.object["explanation"] as! String
@@ -260,11 +255,16 @@ extension PlaySheetViewController_ : UITableViewDataSource, UITableViewDelegate 
         }
     }
     func reloadCell(AtIndexPath indexPath:IndexPath,shouldStop value:Int = 0){
+        print("print function here-----------------------------------")
+        print(indexPath)
         //"value" is default value.
         // if it is 1. it means stop playing animation of this TableViewCell
         let cell = self.table.cellForRow(at: indexPath)
+        print("Step-1-------------------------")
         self.configureCell(cell, atIndexPath: indexPath, shouldStop: value)
+        print ("Step-2-------------------------")
         self.table.scrollToRow(at: indexPath, at: .bottom, animated: true)
+        print("Step-3--------------------------")
     }
     
     //MARK: UITableViewDelegate

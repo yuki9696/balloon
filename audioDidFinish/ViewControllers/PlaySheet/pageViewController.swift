@@ -176,6 +176,7 @@ extension pageViewController: UIPageViewControllerDataSource {
         //return self.previousViewController
     }
 }
+
 extension pageViewController: UIPageViewControllerDelegate {
     func pageViewController(_ pageViewController: UIPageViewController, willTransitionTo pendingViewControllers: [UIViewController]) {
         if pendingViewControllers.count > 0 {
@@ -192,6 +193,7 @@ extension pageViewController: UIPageViewControllerDelegate {
             currentVC?.stop()
         }
     }
+    
     func pageViewController(_ pageViewController: UIPageViewController, didFinishAnimating finished: Bool, previousViewControllers: [UIViewController], transitionCompleted completed: Bool) {
         if completed == false {
             count = (previousViewControllers.first! as! PlaySheetViewController_).pageIndex
@@ -213,6 +215,7 @@ extension pageViewController: UIPageViewControllerDelegate {
         }
     }
 }
+
 extension pageViewController {
     func viewController(forIndex index:Int) -> PlaySheetViewController_? {
         if index < 0 || index >= self.allPhrases.count {

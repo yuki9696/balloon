@@ -23,7 +23,7 @@
                         <rect key="frame" x="8" y="8" width="74" height="63"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qW4-6f-TDJ">
-                                <rect key="frame" x="8" y="8" width="58" height="21"/>
+                                <rect key="frame" x="8" y="10" width="58" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="58" id="5YM-ui-AWC"/>
                                 </constraints>
@@ -32,13 +32,13 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LEm-AO-L3p">
-                                <rect key="frame" x="8" y="37" width="37" height="18"/>
+                                <rect key="frame" x="8" y="35" width="37" height="18"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="15"/>
                                 <color key="textColor" red="0.37254901960784315" green="0.37254901960784315" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="speaker2" translatesAutoresizingMaskIntoConstraints="NO" id="lGg-lp-d21">
-                                <rect key="frame" x="50" y="38" width="16" height="16"/>
+                                <rect key="frame" x="50" y="36" width="16" height="16"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="16" id="aLY-em-8Rc"/>
                                     <constraint firstAttribute="height" constant="16" id="wWn-VS-LHR"/>
@@ -47,14 +47,14 @@
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="qW4-6f-TDJ" firstAttribute="top" secondItem="drz-R3-LnK" secondAttribute="top" constant="8" id="5h8-r7-BHy"/>
+                            <constraint firstItem="qW4-6f-TDJ" firstAttribute="top" secondItem="drz-R3-LnK" secondAttribute="top" constant="10" id="5h8-r7-BHy"/>
                             <constraint firstItem="LEm-AO-L3p" firstAttribute="leading" secondItem="qW4-6f-TDJ" secondAttribute="leading" id="Ia7-3x-8wc"/>
                             <constraint firstAttribute="trailing" secondItem="qW4-6f-TDJ" secondAttribute="trailing" constant="8" id="M2y-GZ-qHF"/>
                             <constraint firstItem="lGg-lp-d21" firstAttribute="leading" secondItem="LEm-AO-L3p" secondAttribute="trailing" constant="5" id="bfP-Rn-4jv"/>
-                            <constraint firstItem="LEm-AO-L3p" firstAttribute="top" secondItem="qW4-6f-TDJ" secondAttribute="bottom" constant="8" id="edJ-Ot-tzi"/>
-                            <constraint firstAttribute="bottom" secondItem="lGg-lp-d21" secondAttribute="bottom" constant="9" id="hZU-0l-eWm"/>
+                            <constraint firstItem="LEm-AO-L3p" firstAttribute="top" secondItem="qW4-6f-TDJ" secondAttribute="bottom" constant="4" id="edJ-Ot-tzi"/>
+                            <constraint firstAttribute="bottom" secondItem="lGg-lp-d21" secondAttribute="bottom" constant="11" id="hZU-0l-eWm"/>
                             <constraint firstItem="lGg-lp-d21" firstAttribute="trailing" secondItem="qW4-6f-TDJ" secondAttribute="trailing" id="iXY-1y-ywJ"/>
-                            <constraint firstAttribute="bottom" secondItem="LEm-AO-L3p" secondAttribute="bottom" constant="8" id="tKe-Bc-iZY"/>
+                            <constraint firstAttribute="bottom" secondItem="LEm-AO-L3p" secondAttribute="bottom" constant="10" id="tKe-Bc-iZY"/>
                             <constraint firstItem="qW4-6f-TDJ" firstAttribute="leading" secondItem="drz-R3-LnK" secondAttribute="leading" constant="8" id="vco-6b-Um2"/>
                         </constraints>
                     </view>
@@ -72,7 +72,7 @@
                 <outlet property="bubbleView" destination="drz-R3-LnK" id="YLE-Xc-gEg"/>
                 <outlet property="widthConstraint" destination="5YM-ui-AWC" id="pv5-ke-lne"/>
             </connections>
-            <point key="canvasLocation" x="-13" y="43"/>
+            <point key="canvasLocation" x="-39" y="5"/>
         </tableViewCell>
     </objects>
     <resources>

@@ -53,11 +53,11 @@
 					<array>
 						<dict>
 							<key>detail</key>
-							<string>怎樣？這件好看嗎？</string>
+							<string>怎麼樣？這件適合我嗎？</string>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>どうこの洋服私に似合ってる？</string>
+							<string>どう？この洋服私に似合ってる？</string>
 							<key>audio</key>
 							<string>bimyo2.mp3</string>
 						</dict>
@@ -100,7 +100,7 @@
 					<array>
 						<dict>
 							<key>detail</key>
-							<string></string>
+							<string>不要難過，分離是為了下次更好的相遇。</string>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
@@ -278,11 +278,11 @@
 					<array>
 						<dict>
 							<key>detail</key>
-							<string>真是的！為何他總是喜歡隨心所欲呢！</string>
+							<string>真是的！為何他總是這樣自作主張！</string>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
-							<string>ったく！何であの人はいつもいつも自分勝手なの！！</string>
+							<string>ったく！何であの人はいつもいつも自分勝手なの！</string>
 							<key>audio</key>
 							<string>nandeitumo2.mp3</string>
 						</dict>
@@ -335,21 +335,21 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string></string>
+							<string>很好呀！送那個人嗎？</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>やるぅーいいね。　お相手は、あの人？</string>
+							<string>やるぅーいいね！　お相手は、あの人？</string>
 							<key>audio</key>
 							<string>konokotoha3.mp3</string>
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>是喔！這次情人節時要準備送巧克力（告白）呀！</string>
+							<string>嗯，對,但這事要噓---（保密）唷</string>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>うん、そう。（恥）でも、この事はシー（内緒）ね</string>
+							<string>うん、そう。でも、この事はシー（内緒）ね</string>
 							<key>audio</key>
 							<string>konokotoha4.mp3</string>
 						</dict>
@@ -498,7 +498,7 @@
 				</dict>
 				<dict>
 					<key>detail</key>
-					<string></string>
+					<string>你們倆是什麼關係呢?</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -681,7 +681,7 @@
 					<array>
 						<dict>
 							<key>detail</key>
-							<string>這次要只吃菜來減肥</string>
+							<string>這次要挑戰只吃蔬菜來減肥</string>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
@@ -923,7 +923,7 @@
 					<key>image</key>
 					<string>green21</string>
 					<key>explanation</key>
-					<string>這詞表示偶然,巧遇的意思</string>
+					<string>這詞表示偶然,巧遇的意思。</string>
 					<key>audio</key>
 					<string>tamatama.mp3</string>
 				</dict>
@@ -1129,11 +1129,11 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>飛奔過來所以就變這樣了</string>
+							<string>因為我急著衝過來，頭髮就變這樣了⋯⋯</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
-							<string>走ってきたから、こうなっちゃった</string>
+							<string>走ってきたから、こうなっちゃった⋯⋯</string>
 							<key>audio</key>
 							<string>mitaini3.mp3</string>
 						</dict>
@@ -1397,7 +1397,7 @@
 					<key>image</key>
 					<string>green33</string>
 					<key>explanation</key>
-					<string></string>
+					<string>不管做了什麼選擇，結果都會一樣。</string>
 					<key>audio</key>
 					<string>dochimichi.mp3</string>
 				</dict>
@@ -1610,7 +1610,7 @@
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
-							<string>うん、まだ身体が慣れてないみたい。</string>
+							<string>うん、まだ身体が慣れてないみたい</string>
 							<key>audio</key>
 							<string>jisaboke4.mp3</string>
 						</dict>
@@ -1622,7 +1622,7 @@
 					<key>image</key>
 					<string>green38</string>
 					<key>explanation</key>
-					<string>對於從國外歸來的人可以使用的話或者對於生活日夜顛倒的人可以使用</string>
+					<string>對於從國外歸來的人可以使用的話或者對於生活日夜顛倒的人可以使用。</string>
 					<key>audio</key>
 					<string>jisaboke.mp3</string>
 				</dict>
@@ -1706,8 +1706,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>哈哈哈，超好笑的，這當然男友會生氣
-&quot;</string>
+							<string>哈哈哈，超好笑的，這當然男友會生氣</string>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
@@ -1938,7 +1937,7 @@
 					<key>image</key>
 					<string>green6</string>
 					<key>explanation</key>
-					<string>流行語。這是從英文disrespect衍伸而來。把對方當笨蛋椰榆。</string>
+					<string>流行語。這是從英文disrespect衍伸而來。把對方當笨蛋揶揄。</string>
 					<key>audio</key>
 					<string>desuru.mp3</string>
 				</dict>
@@ -2032,7 +2031,7 @@
 					<key>image</key>
 					<string>green8</string>
 					<key>explanation</key>
-					<string>流行語。跟英文的ＮＯＷ意思直翻成日文的意思。表示正在做某件事的意思</string>
+					<string>流行語。跟英文的ＮＯＷ意思直翻成日文的意思。表示正在做某件事的意思。</string>
 					<key>audio</key>
 					<string>imany.mp3</string>
 				</dict>
@@ -2106,7 +2105,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>&quot;等一下要去大學同學會,之後要去男友家&quot;</string>
+							<string>等一下要去大學同學會,之後要住男友家</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
@@ -2253,7 +2252,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>青菜耶也要吃完哦！</string>
+							<string>青菜也要吃完哦！</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
@@ -2306,7 +2305,7 @@
 					<key>image</key>
 					<string>yellow2</string>
 					<key>explanation</key>
-					<string>這句話是在用餐後的禮貌用語，對於做飯的人表示感謝的心情</string>
+					<string>這句話是在用餐後的禮貌用語，對於做飯的人表示感謝的心情。</string>
 					<key>audio</key>
 					<string>gochisousama.mp3</string>
 				</dict>
@@ -2353,7 +2352,7 @@
 					<key>image</key>
 					<string>yellow3</string>
 					<key>explanation</key>
-					<string>「猫舌」是用來形容像貓一樣怕喝熱的東西的人</string>
+					<string>「猫舌」是用來形容像貓一樣怕喝熱的東西的人。</string>
 					<key>audio</key>
 					<string>nekojita.mp3</string>
 				</dict>
@@ -2574,7 +2573,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>嗯⋯要我去去講有點難開口耶</string>
+							<string>嗯⋯要我去講有點難開口耶</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
@@ -2627,7 +2626,7 @@
 					<key>image</key>
 					<string>red2</string>
 					<key>explanation</key>
-					<string>和自己個性不適合的意思</string>
+					<string>和自己個性不適合的意思。</string>
 					<key>audio</key>
 					<string>soiunoshoni.mp3</string>
 				</dict>
@@ -2676,7 +2675,7 @@
 					<key>image</key>
 					<string>red3</string>
 					<key>explanation</key>
-					<string>在會傷害對方心理前先說的用語</string>
+					<string>在會傷害對方心理前先說的用語。</string>
 					<key>audio</key>
 					<string>iikatawaruikedo.mp3</string>
 				</dict>
@@ -3052,43 +3051,6 @@
 				</dict>
 				<dict>
 					<key>detail</key>
-					<string>這是用玻璃做的</string>
-					<key>chats</key>
-					<array>
-						<dict>
-							<key>detail</key>
-							<string>哇,這杯子好漂亮</string>
-							<key>id</key>
-							<integer>0</integer>
-							<key>title</key>
-							<string>わーこのコップ　凄い綺麗ー</string>
-							<key>audio</key>
-							<string>garasude2.mp3</string>
-						</dict>
-						<dict>
-							<key>detail</key>
-							<string>這是用特別的玻璃做成的唷</string>
-							<key>id</key>
-							<integer>1</integer>
-							<key>title</key>
-							<string>これは、特殊なガラスでできているんだよ</string>
-							<key>audio</key>
-							<string>garasude3.mp3</string>
-						</dict>
-					</array>
-					<key>id</key>
-					<integer>0</integer>
-					<key>title</key>
-					<string>ガラスでできている</string>
-					<key>image</key>
-					<string>red14</string>
-					<key>explanation</key>
-					<string>這字是和英文的be made of 意思一樣 用....製作而成的意思。</string>
-					<key>audio</key>
-					<string>garasude.mp3</string>
-				</dict>
-				<dict>
-					<key>detail</key>
 					<string>從頭開始做的</string>
 					<key>chats</key>
 					<array>
@@ -3118,7 +3080,7 @@
 					<key>title</key>
 					<string>一から作った</string>
 					<key>image</key>
-					<string>red15</string>
+					<string>red14</string>
 					<key>explanation</key>
 					<string>表示從最初開始,從無到有的意思。</string>
 					<key>audio</key>
@@ -3142,7 +3104,7 @@
 			<array>
 				<dict>
 					<key>detail</key>
-					<string>不蘇服</string>
+					<string>不舒服</string>
 					<key>chats</key>
 					<array>
 						<dict>
@@ -3167,7 +3129,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>嗯..有點不蘇服</string>
+							<string>嗯..有點不舒服</string>
 							<key>id</key>
 							<integer>2</integer>
 							<key>title</key>
@@ -3241,7 +3203,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>酷酷掃，沒關係的，躺躺休息就會好了</string>
+							<string>咳咳。沒關係的，休息一下應該就會好了</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
@@ -3461,7 +3423,7 @@
 					<key>image</key>
 					<string>green2</string>
 					<key>explanation</key>
-					<string>在日本職場上,不論是早上下午晚上遇到同事的招呼語。有許多說法,ㄧ種是抱著感謝對方從早到晚的工作的心情打招呼。</string>
+					<string>在日本職場上,不論是早上下午晚上遇到同事的招呼語。有許多說法ㄧ種是抱著感謝對方從早到晚的工作的心情打招呼。</string>
 					<key>audio</key>
 					<string>ohayo.mp3</string>
 				</dict>
@@ -3640,7 +3602,7 @@
 					<array>
 						<dict>
 							<key>detail</key>
-							<string>他工作能力很好吧，之前業績可是3連霸</string>
+							<string>他工作能力很好吧</string>
 							<key>id</key>
 							<integer>0</integer>
 							<key>title</key>
@@ -3650,7 +3612,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>好厲害呀，應該是很機靈唷</string>
+							<string>之前業績可是3連霸</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>
@@ -3679,6 +3641,43 @@
 					<string>「頭の回転が早い」直譯是「頭腦轉速很快」就是思考很敏捷，很聰明的意思。但不是單指「智商很高」之意，而是有擅長與人交流，能夠快速理解對方說的話並且回應的意思。</string>
 					<key>audio</key>
 					<string>atamanokaiten.mp3</string>
+				</dict>
+				<dict>
+					<key>detail</key>
+					<string>這是用玻璃做的</string>
+					<key>chats</key>
+					<array>
+						<dict>
+							<key>detail</key>
+							<string>哇,這杯子好漂亮</string>
+							<key>id</key>
+							<integer>0</integer>
+							<key>title</key>
+							<string>わーこのコップ　凄い綺麗ー</string>
+							<key>audio</key>
+							<string>garasude2.mp3</string>
+						</dict>
+						<dict>
+							<key>detail</key>
+							<string>這是用特別的玻璃做成的唷</string>
+							<key>id</key>
+							<integer>1</integer>
+							<key>title</key>
+							<string>これは、特殊なガラスでできているんだよ</string>
+							<key>audio</key>
+							<string>garasude3.mp3</string>
+						</dict>
+					</array>
+					<key>id</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>ガラスでできている</string>
+					<key>image</key>
+					<string>green8</string>
+					<key>explanation</key>
+					<string>這字是和英文的be made of 意思一樣 用....製作而成的意思。</string>
+					<key>audio</key>
+					<string>garasude.mp3</string>
 				</dict>
 			</array>
 		</dict>
@@ -3713,7 +3712,7 @@
 						</dict>
 						<dict>
 							<key>detail</key>
-							<string>是喔，那借我一百萬</string>
+							<string>是喔，那借我錢！</string>
 							<key>id</key>
 							<integer>1</integer>
 							<key>title</key>

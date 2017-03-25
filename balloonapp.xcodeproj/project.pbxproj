@@ -58,7 +58,6 @@
 		B26EF4D51E827CA30054829E /* soretabun3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B26EF4D21E827CA30054829E /* soretabun3.mp3 */; };
 		B26EF4D71E82AC580054829E /* ichikara00.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B26EF4D61E82AC570054829E /* ichikara00.mp3 */; };
 		B29399A01E75342C00FCBD88 /* igokochiii3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B293999F1E75342C00FCBD88 /* igokochiii3.mp3 */; };
-		B29399D31E75D7DD00FCBD88 /* Icon in Resources */ = {isa = PBXBuildFile; fileRef = B29399CC1E75D7DD00FCBD88 /* Icon */; };
 		B29399D41E75D7DD00FCBD88 /* MuseoSansRounded-100.otf in Resources */ = {isa = PBXBuildFile; fileRef = B29399CD1E75D7DD00FCBD88 /* MuseoSansRounded-100.otf */; };
 		B29399D51E75D7DD00FCBD88 /* MuseoSansRounded-1000.otf in Resources */ = {isa = PBXBuildFile; fileRef = B29399CE1E75D7DD00FCBD88 /* MuseoSansRounded-1000.otf */; };
 		B29399D61E75D7DD00FCBD88 /* MuseoSansRounded-300.otf in Resources */ = {isa = PBXBuildFile; fileRef = B29399CF1E75D7DD00FCBD88 /* MuseoSansRounded-300.otf */; };
@@ -417,6 +416,7 @@
 		46F275291E64071000D01B15 /* StoryTableviewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryTableviewCell.swift; sourceTree = "<group>"; };
 		46F275BC1E640A0600D01B15 /* Audio-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Audio-Bridging-Header.h"; sourceTree = "<group>"; };
 		46F276171E6427BD00D01B15 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		B21C02661E86304200482215 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		B220667D1E7BB6F900A7B52D /* iraira.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iraira.mp3; sourceTree = "<group>"; };
 		B220667E1E7BB6F900A7B52D /* iraira2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iraira2.mp3; sourceTree = "<group>"; };
 		B220667F1E7BB6F900A7B52D /* iraira3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iraira3.mp3; sourceTree = "<group>"; };
@@ -446,7 +446,6 @@
 		B26EF4D21E827CA30054829E /* soretabun3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = soretabun3.mp3; sourceTree = "<group>"; };
 		B26EF4D61E82AC570054829E /* ichikara00.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ichikara00.mp3; sourceTree = "<group>"; };
 		B293999F1E75342C00FCBD88 /* igokochiii3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = igokochiii3.mp3; sourceTree = "<group>"; };
-		B29399CC1E75D7DD00FCBD88 /* Icon */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Icon"; sourceTree = "<group>"; };
 		B29399CD1E75D7DD00FCBD88 /* MuseoSansRounded-100.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSansRounded-100.otf"; sourceTree = "<group>"; };
 		B29399CE1E75D7DD00FCBD88 /* MuseoSansRounded-1000.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSansRounded-1000.otf"; sourceTree = "<group>"; };
 		B29399CF1E75D7DD00FCBD88 /* MuseoSansRounded-300.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MuseoSansRounded-300.otf"; sourceTree = "<group>"; };
@@ -841,6 +840,7 @@
 				46F275191E6403F800D01B15 /* Assets.xcassets */,
 				46F2751A1E6403F800D01B15 /* Info.plist */,
 				46F275021E6403B300D01B15 /* Products */,
+				B21C02651E86304200482215 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -933,10 +933,17 @@
 			path = HelperClass;
 			sourceTree = "<group>";
 		};
+		B21C02651E86304200482215 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B21C02661E86304200482215 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B29399CB1E75D7DD00FCBD88 /* OpenType CFF Std */ = {
 			isa = PBXGroup;
 			children = (
-				B29399CC1E75D7DD00FCBD88 /* Icon */,
 				B29399CD1E75D7DD00FCBD88 /* MuseoSansRounded-100.otf */,
 				B29399CE1E75D7DD00FCBD88 /* MuseoSansRounded-1000.otf */,
 				B29399CF1E75D7DD00FCBD88 /* MuseoSansRounded-300.otf */,
@@ -1345,7 +1352,7 @@
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
 					};
@@ -1580,7 +1587,6 @@
 				B29543D51E740CB9007AEBDA /* wakatta.mp3 in Resources */,
 				B2B3FF6D1E74B20C006003EF /* doyagao.mp3 in Resources */,
 				B2B3FF5F1E74B0BF006003EF /* wanchan2.mp3 in Resources */,
-				B29399D31E75D7DD00FCBD88 /* Icon in Resources */,
 				B29544121E740CB9007AEBDA /* koegakarechata4.mp3 in Resources */,
 				B29544A11E74A237007AEBDA /* kiotsukatte3.mp3 in Resources */,
 				B295445E1E749163007AEBDA /* bimyo2.mp3 in Resources */,
@@ -1874,7 +1880,7 @@
 				DEVELOPMENT_TEAM = N7QJKWAN4M;
 				INFOPLIST_FILE = audioDidFinish/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.balloonapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eastseven.balloonapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "audioDidFinish/AppDelegate/Audio-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -1891,7 +1897,7 @@
 				DEVELOPMENT_TEAM = N7QJKWAN4M;
 				INFOPLIST_FILE = audioDidFinish/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.balloonapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eastseven.balloonapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "audioDidFinish/AppDelegate/Audio-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;

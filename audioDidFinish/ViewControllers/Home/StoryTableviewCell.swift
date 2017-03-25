@@ -14,11 +14,7 @@ class StoryTableviewCell: UITableViewCell {
     @IBOutlet var lblTitle: UILabel!
     @IBOutlet var lblSubtitle: UILabel!
     
-    
 
-
-
-    
     
     override func awakeFromNib() {
         super.awakeFromNib()
